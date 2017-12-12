@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=3V3VCC Pin=R5-1
+Added Pin To Net: NetName=INT3/SCL1/RA14 Pin=R5-2
+Added Pin To Net: NetName=3V3VCC Pin=R11-1
+Added Pin To Net: NetName=EMDIO Pin=R11-2
+Added Member To Class: ClassName=FTDI-USB Member=Component R5 1.5K
+Added Member To Class: ClassName=FTDI-USB Member=Component R11 1.5K

@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=5V3V_ENA Pin=U4-10
+Removed Pin From Net: NetName=SPI_MOSI Pin=U4-52
+Removed Pin From Net: NetName=SPI_MISO Pin=U4-53
+Removed Pin From Net: NetName=I2C_SDA Pin=U4-58
+Removed Pin From Net: NetName=I2C_SCL Pin=U4-59
+Removed Pin From Net: NetName=XY_LIM Pin=U4-67

@@ -1,0 +1,26 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: Shapeoko Mill.PcbDoc   4/15/2014  12:51:57 AM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Shapeoko Mill.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        16mil (0.4064mm)         Round          190              51.16 Inch (1299.34 mm)
+T2        20mil (0.508mm)          Round          4                0.90 Inch (22.82 mm)
+T3        25mil (0.635mm)          Round          12               1.75 Inch (44.52 mm)
+T4        35.43mil (0.89992mm)     Round          40               10.95 Inch (278.08 mm)
+T5        40mil (1.016mm)          Round          1                0.00 Inch (0.00 mm)
+T6        42mil (1.0668mm)         Round          73               19.61 Inch (498.18 mm)
+T7        46mil (1.1684mm)         Round          8                8.04 Inch (204.13 mm)
+T8        48mil (1.2192mm)         Round          3                0.25 Inch (6.40 mm)
+T9        52mil (1.3208mm)         Round          16               9.95 Inch (252.84 mm)
+T10       59.5mil (1.5113mm)       Round          3                0.46 Inch (11.58 mm)
+T11       125mil (3.175mm)         Round          4                15.65 Inch (397.61 mm)
+T12       39.37mil (1mm)           Round          4         NPTH   2.35 Inch (59.75 mm)
+T13       127.95mil (3.24993mm)    Round          2         NPTH   0.40 Inch (10.16 mm)
+---------------------------------------------------------------------------
+Totals                                            360              121.47 Inch (3085.40 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:01

@@ -1,0 +1,88 @@
+Added Component: Designator=B1(DIP-6)
+Added Component: Designator=B2(DIP-6)
+Added Component: Designator=B3(DIP-6)
+Added Component: Designator=C1(CAPC1005)
+Added Component: Designator=C2(CAPC1005)
+Added Component: Designator=C3(CAPC1005)
+Added Component: Designator=C4(CAPC1005)
+Added Component: Designator=C5(CAPC1005)
+Added Component: Designator=C6(CAPC1005)
+Added Component: Designator=C7(CAPC1005)
+Added Component: Designator=C8(C1206)
+Added Component: Designator=C9(C1206)
+Added Component: Designator=C10(C1206)
+Added Component: Designator=C11(C1206)
+Added Component: Designator=C12(C1206)
+Added Component: Designator=C13(C1206)
+Added Component: Designator=C14(C1206)
+Added Component: Designator=C15(C1206)
+Added Component: Designator=C16(C1206)
+Added Component: Designator=C17(C1206)
+Added Component: Designator=C18(C1206)
+Added Component: Designator=C19(C1206)
+Added Component: Designator=C20(C1206)
+Added Component: Designator=C21(C1206)
+Added Component: Designator=D1(1.6X0.8X0.8)
+Added Component: Designator=D2(1.6X0.8X0.8)
+Added Component: Designator=D3(1.6X0.8X0.8)
+Added Component: Designator=D4(1.6X0.8X0.8)
+Added Component: Designator=D5(1.6X0.8X0.8)
+Added Component: Designator=J1(MUSB-05-X-B-SM-A)
+Added Component: Designator=R1(3-0603)
+Added Component: Designator=R2(3-0603)
+Added Component: Designator=R3(3-0603)
+Added Component: Designator=R4(3-0603)
+Added Component: Designator=R5(3-0603)
+Added Component: Designator=R6(6-0805)
+Added Component: Designator=R7(3-0603)
+Added Component: Designator=R8(3-0603)
+Added Component: Designator=R9(3-0603)
+Added Component: Designator=R10(3-0603)
+Added Component: Designator=R11(3-0603)
+Added Component: Designator=R12(3-0603)
+Added Component: Designator=R13(3-0603)
+Added Component: Designator=R14(3-0603)
+Added Component: Designator=R15(3-0603)
+Added Component: Designator=R16(3-0603)
+Added Component: Designator=R17(3-0603)
+Added Component: Designator=S1(SPST-2)
+Added Component: Designator=U1(SSOP-16_M)
+Added Component: Designator=U2(TQFP-PF100_N)
+Added Component: Designator=U3(ADI-CP-8-5_V)
+Added Component: Designator=U4(ADI-CP-8-5_V)
+Added Component: Designator=U5(ADI-CP-8-5_V)
+Added Pin To Net: NetName=NetB1_1 Pin=B1-1
+Added Pin To Net: NetName=NetB1_3 Pin=B1-3
+Added Pin To Net: NetName=NetB1_4 Pin=B1-4
+Added Pin To Net: NetName=NetB1_6 Pin=B1-6
+Added Pin To Net: NetName=NetB2_1 Pin=B2-1
+Added Pin To Net: NetName=NetB2_3 Pin=B2-3
+Added Pin To Net: NetName=NetB2_4 Pin=B2-4
+Added Pin To Net: NetName=NetB2_6 Pin=B2-6
+Added Pin To Net: NetName=NetB3_1 Pin=B3-1
+Added Pin To Net: NetName=NetB3_3 Pin=B3-3
+Added Pin To Net: NetName=NetB3_4 Pin=B3-4
+Added Pin To Net: NetName=NetB3_6 Pin=B3-6
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=NetC4_1 Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=NetC4_1 Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=GND Pin=C11-1
+Added Pin To Net: NetName=GND Pin=C12-1
+Added Pin To Net: NetName=GND Pin=C13-1
+Added Pin To Net: NetName=GND Pin=C14-1
+Added Pin To Net: NetName=GND Pin=C15-1
+Added Pin To Net: NetName=GND Pin=C16-1
+Added Pin To Net: NetName=GND Pin=C17-1
+Added Pin To Net: NetName=GND Pin=C18-1
+Added Pin To Net: NetName=GND Pin=C19-1
+Added Pin To Net: NetName=GND Pin=C20-1
+Added Pin To Net: NetName=GND Pin=C21-1

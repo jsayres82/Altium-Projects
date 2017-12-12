@@ -1,0 +1,16 @@
+Removed Parameter CrossRef:Block Diagram[2B] from Port ECRS_DV
+Removed Parameter CrossRef:Block Diagram[2B] from Port EREF_CLK
+Removed Parameter CrossRef:Block Diagram[2B] from Port ERXD0
+Removed Parameter CrossRef:Block Diagram[2B] from Port ERXD1
+Removed Parameter CrossRef:Block Diagram[2B] from Port ERXERR
+Removed Parameter CrossRef:Block Diagram[2B] from Port ETXD0
+Removed Parameter CrossRef:Block Diagram[2B] from Port ETXD1
+Removed Parameter CrossRef:Block Diagram[2B] from Port INT3/SCL1/RA15
+Removed Parameter CrossRef:Block Diagram[2C] from Port EMDC
+Removed Parameter CrossRef:Block Diagram[2C] from Port EMDIO
+Removed Parameter CrossRef:Block Diagram[2C] from Port ETXEN
+Removed Parameter CrossRef:Block Diagram[2C] from Port RXDATA
+Removed Parameter CrossRef:Block Diagram[2C] from Port TXDATA
+Removed Parameter CrossRef:Block Diagram[2C] from Port USB_D+
+Removed Parameter CrossRef:Block Diagram[2C] from Port USB_D-
+Removed Parameter CrossRef:Block Diagram[2C] from Port VBUS

@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=5VDC Pin=J11-1
+Removed Pin From Net: NetName=GND Pin=J11-2
+Removed Pin From Net: NetName=5VDC Pin=S2-1
+Removed Pin From Net: NetName=NetR33_1 Pin=S2-2
+Removed Member From Class: ClassName=Power Member=J11
+Removed Member From Class: ClassName=Power Member=S2
+Added Component: Designator=J?(CONN_PWR_JACK_2.1x5.5mm)
+Added Component: Designator=S?(SWITCH_SPDT_SLIDER)
+Added Pin To Net: NetName=GND Pin=J?-2
+Added Pin To Net: NetName=GND Pin=J?-3
+Added Pin To Net: NetName=GND Pin=S?-1
+Added Pin To Net: NetName=NetR33_1 Pin=S?-3
+Added Pin To Net: NetName=NetJ?_1 Pin=J?-1
+Added Pin To Net: NetName=NetJ?_1 Pin=S?-2
+Added Net: Name=NetJ?_1
+Added Member To Class: ClassName=Power Member=Component J? CONN_PWR_JACK_2.1x5.5mm
+Added Member To Class: ClassName=Power Member=Component S? ON-ON

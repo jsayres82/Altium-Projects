@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=X_HOME Pin=U4-4
+Removed Pin From Net: NetName=Y2_HOME Pin=U4-11
+Added Pin To Net: NetName=Y2_HOME Pin=U4-4
+Added Pin To Net: NetName=X_HOME Pin=U4-11

@@ -1,0 +1,101 @@
+Removed Pin From Net: NetName=GND Pin=J1-10
+Removed Pin From Net: NetName=GND Pin=J2-10
+Removed Pin From Net: NetName=GND Pin=J3-10
+Removed Pin From Net: NetName=GND Pin=J4-10
+Removed Pin From Net: NetName=NetJ17_1 Pin=J17-1
+Added Component: Designator=J17(1x3POS_HEADER)
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=GND Pin=C11-1
+Added Pin To Net: NetName=GND Pin=C12-1
+Added Pin To Net: NetName=GND Pin=C13-1
+Added Pin To Net: NetName=GND Pin=C14-1
+Added Pin To Net: NetName=GND Pin=C16-1
+Added Pin To Net: NetName=GND Pin=C19-1
+Added Pin To Net: NetName=GND Pin=C20-1
+Added Pin To Net: NetName=GND Pin=C21-1
+Added Pin To Net: NetName=GND Pin=C22-1
+Added Pin To Net: NetName=GND Pin=C23-1
+Added Pin To Net: NetName=GND Pin=C24-1
+Added Pin To Net: NetName=GND Pin=C25-1
+Added Pin To Net: NetName=GND Pin=C26-1
+Added Pin To Net: NetName=GND Pin=C27-1
+Added Pin To Net: NetName=GND Pin=C28-1
+Added Pin To Net: NetName=GND Pin=C29-1
+Added Pin To Net: NetName=GND Pin=C30-1
+Added Pin To Net: NetName=GND Pin=C31-1
+Added Pin To Net: NetName=GND Pin=C33-1
+Added Pin To Net: NetName=GND Pin=C35-1
+Added Pin To Net: NetName=GND Pin=C37-1
+Added Pin To Net: NetName=GND Pin=C39-1
+Added Pin To Net: NetName=GND Pin=C41-1
+Added Pin To Net: NetName=GND Pin=C43-1
+Added Pin To Net: NetName=GND Pin=C44-1
+Added Pin To Net: NetName=GND Pin=C45-1
+Added Pin To Net: NetName=GND Pin=J1-10
+Added Pin To Net: NetName=GND Pin=J2-10
+Added Pin To Net: NetName=GND Pin=J3-10
+Added Pin To Net: NetName=GND Pin=J4-10
+Added Pin To Net: NetName=GND Pin=J10-3
+Added Pin To Net: NetName=GND Pin=J12-3
+Added Pin To Net: NetName=GND Pin=J13-3
+Added Pin To Net: NetName=GND Pin=J16-3
+Added Pin To Net: NetName=NetJ17_1 Pin=J17-1
+Added Pin To Net: NetName=GND Pin=J17-2
+Added Pin To Net: NetName=NetC15_2 Pin=J17-3
+Added Pin To Net: NetName=GND Pin=J23-1
+Added Pin To Net: NetName=GND Pin=J24-1
+Added Pin To Net: NetName=GND Pin=J26-1
+Added Pin To Net: NetName=2V5VCC Pin=J26-2
+Added Pin To Net: NetName=GND Pin=J27-1
+Added Pin To Net: NetName=1V8VCC Pin=J27-2
+Added Pin To Net: NetName=GND Pin=R12-1
+Added Pin To Net: NetName=GND Pin=R39-1
+Added Pin To Net: NetName=GND Pin=U1-6
+Added Pin To Net: NetName=GND Pin=U1-15
+Added Pin To Net: NetName=GND Pin=U1-19
+Added Pin To Net: NetName=GND Pin=U1-35
+Added Pin To Net: NetName=GND Pin=U1-36
+Added Pin To Net: NetName=GND Pin=U1-47
+Added Pin To Net: NetName=GND Pin=Y1-2
+Added Member To Class: ClassName=MCU Member=Component C20 11pF
+Added Member To Class: ClassName=MCU Member=Component C21 20pF
+Added Member To Class: ClassName=MCU Member=Component C22 20pF
+Added Member To Class: ClassName=MCU Member=Component C23 11pF
+Added Member To Class: ClassName=MCU Member=Component C24 0.1uF
+Added Member To Class: ClassName=MCU Member=Component C25 0.1uF
+Added Member To Class: ClassName=MCU Member=Component C26 0.1uF
+Added Member To Class: ClassName=MCU Member=Component C27 0.1uF
+Added Member To Class: ClassName=Power Member=Component C32 1.0uF
+Added Member To Class: ClassName=Power Member=Component C33 1.0uF
+Added Member To Class: ClassName=Power Member=Component C34 1.0uF
+Added Member To Class: ClassName=Power Member=Component C35 1.0uF
+Added Member To Class: ClassName=Power Member=Component C42 0.1uF
+Added Member To Class: ClassName=Power Member=Component C43 0.1uF
+Added Member To Class: ClassName=Power Member=Component C44 0.1uF
+Added Member To Class: ClassName=Power Member=Component C45 0.1uF
+Added Member To Class: ClassName=Block Diagram Member=Component J1 shrouded box header
+Added Member To Class: ClassName=FTDI-USB Member=Component J6 Mini-B
+Added Member To Class: ClassName=Limit Sensor Interface Member=Component J9 MHDR1X4
+Added Member To Class: ClassName=Limit Sensor Interface Member=Component J11 MHDR1X4
+Added Member To Class: ClassName=Limit Sensor Interface Member=Component J15 MHDR1X4
+Added Member To Class: ClassName=MCU Member=Component J16 ICP
+Added Member To Class: ClassName=MCU Member=Component J21 Stackable ScrewTerm
+Added Member To Class: ClassName=MCU Member=Component J22 Stackable ScrewTerm
+Added Member To Class: ClassName=Power Member=Component J26 Stackable ScrewTerm
+Added Member To Class: ClassName=Power Member=Component J27 Stackable ScrewTerm
+Added Member To Class: ClassName=MCU Member=Component R30 1.0K
+Added Member To Class: ClassName=Power Member=Component R39 100K
+Added Member To Class: ClassName=FTDI-USB Member=Component U2 FT230XS-R
+Added Member To Class: ClassName=Limit Sensor Interface Member=Component U3 CD4071BCM
+Added Member To Class: ClassName=MCU Member=Component U4 PIC32MX795F512L-80V/PF
+Added Member To Class: ClassName=MCU Member=Component U5 TXB0108PWR
+Added Member To Class: ClassName=MCU Member=Component U6 CD4069UBCM
+Added Member To Class: ClassName=Power Member=Component U7 ADP7104ACPZ-3.3-R7
+Added Member To Class: ClassName=Power Member=Component U8 ADP7104ACPZ-2.5-R7
+Added Member To Class: ClassName=Power Member=Component U9 ADP7104ACPZ-1.8-R7

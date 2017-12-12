@@ -1,0 +1,9 @@
+Change Component Comment : Designator=C20 Old Comment=11pF New Comment=11 pF
+Change Component Comment : Designator=C23 Old Comment=11pF New Comment=11 pF
+Change Component Description : Designator=C20 Old Description=CAP CER 11PF 25V 5% NP0 0201 New Description=CAP CER 11PF 250V 5% NP0 0603
+Change Component Description : Designator=C23 Old Description=CAP CER 11PF 25V 5% NP0 0201 New Description=CAP CER 11PF 250V 5% NP0 0603
+Added Room: Name=Block Diagram
+Added Room: Name=FTDI-USB
+Added Room: Name=Limit Sensor Interface
+Added Room: Name=MCU
+Added Room: Name=Power

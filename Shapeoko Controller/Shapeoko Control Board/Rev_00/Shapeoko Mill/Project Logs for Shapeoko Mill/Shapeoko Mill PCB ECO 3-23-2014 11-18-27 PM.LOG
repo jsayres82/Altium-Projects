@@ -1,0 +1,143 @@
+Removed Pin From Net: NetName=GND Pin=J1-10
+Removed Pin From Net: NetName=GND Pin=J2-10
+Removed Pin From Net: NetName=GND Pin=J3-10
+Removed Pin From Net: NetName=GND Pin=J4-10
+Added Pin To Net: NetName=GND Pin=J1-10
+Added Pin To Net: NetName=GND Pin=J2-10
+Added Pin To Net: NetName=GND Pin=J3-10
+Added Pin To Net: NetName=GND Pin=J4-10
+Added Member To Class: ClassName=FTDI-USB Member=Component C1 0.1uF
+Added Member To Class: ClassName=FTDI-USB Member=Component C2 0.1uF
+Added Member To Class: ClassName=FTDI-USB Member=Component C3 4.7uF
+Added Member To Class: ClassName=FTDI-USB Member=Component C4 0.1uF
+Added Member To Class: ClassName=FTDI-USB Member=Component C5 0.1uF
+Added Member To Class: ClassName=FTDI-USB Member=Component C6 0.1uF
+Added Member To Class: ClassName=FTDI-USB Member=Component C7 0.1uF
+Added Member To Class: ClassName=FTDI-USB Member=Component C8 10uF
+Added Member To Class: ClassName=FTDI-USB Member=Component C9 0.1uF
+Added Member To Class: ClassName=FTDI-USB Member=Component C10 0.1uF
+Added Member To Class: ClassName=FTDI-USB Member=Component C11 0.1uF
+Added Member To Class: ClassName=FTDI-USB Member=Component C12 0.047uF
+Added Member To Class: ClassName=FTDI-USB Member=Component C13 0.047uF
+Added Member To Class: ClassName=FTDI-USB Member=Component C14 0.1uF
+Added Member To Class: ClassName=MCU Member=Component C15 10uF
+Added Member To Class: ClassName=MCU Member=Component C16 10uF
+Added Member To Class: ClassName=MCU Member=Component C17 10uF
+Added Member To Class: ClassName=MCU Member=Component C18 0.1uF
+Added Member To Class: ClassName=MCU Member=Component C19 0.1uF
+Added Member To Class: ClassName=MCU Member=Component C20 11pF
+Added Member To Class: ClassName=MCU Member=Component C21 20pF
+Added Member To Class: ClassName=MCU Member=Component C22 20pF
+Added Member To Class: ClassName=MCU Member=Component C23 11pF
+Added Member To Class: ClassName=MCU Member=Component C24 0.1uF
+Added Member To Class: ClassName=MCU Member=Component C25 0.1uF
+Added Member To Class: ClassName=MCU Member=Component C26 0.1uF
+Added Member To Class: ClassName=MCU Member=Component C27 0.1uF
+Added Member To Class: ClassName=MCU Member=Component C28 0.1uF
+Added Member To Class: ClassName=MCU Member=Component C29 0.1uF
+Added Member To Class: ClassName=MCU Member=Component C30 0.1uF
+Added Member To Class: ClassName=MCU Member=Component C31 0.1uF
+Added Member To Class: ClassName=Power Member=Component C32 1.0uF
+Added Member To Class: ClassName=Power Member=Component C33 1.0uF
+Added Member To Class: ClassName=Power Member=Component C34 1.0uF
+Added Member To Class: ClassName=Power Member=Component C35 1.0uF
+Added Member To Class: ClassName=Power Member=Component C36 1.0uF
+Added Member To Class: ClassName=Power Member=Component C37 1.0uF
+Added Member To Class: ClassName=Power Member=Component C38 0.1uF
+Added Member To Class: ClassName=Power Member=Component C39 0.1uF
+Added Member To Class: ClassName=Power Member=Component C40 0.1uF
+Added Member To Class: ClassName=Power Member=Component C41 0.1uF
+Added Member To Class: ClassName=Power Member=Component C42 0.1uF
+Added Member To Class: ClassName=Power Member=Component C43 0.1uF
+Added Member To Class: ClassName=Power Member=Component C44 0.1uF
+Added Member To Class: ClassName=Power Member=Component C45 0.1uF
+Added Member To Class: ClassName=FTDI-USB Member=Component D1 HSMD-C190
+Added Member To Class: ClassName=FTDI-USB Member=Component D2 HSMD-C190
+Added Member To Class: ClassName=Power Member=Component D3 HSMD-C190
+Added Member To Class: ClassName=Power Member=Component D4 HSMD-C190
+Added Member To Class: ClassName=Power Member=Component D5 HSMD-C190
+Added Member To Class: ClassName=Block Diagram Member=Component J1 shrouded box header
+Added Member To Class: ClassName=Block Diagram Member=Component J2 shrouded box header
+Added Member To Class: ClassName=Block Diagram Member=Component J3 shrouded box header
+Added Member To Class: ClassName=Block Diagram Member=Component J4 shrouded box header
+Added Member To Class: ClassName=Block Diagram Member=Component J5 shrouded box header
+Added Member To Class: ClassName=FTDI-USB Member=Component J6 Mini-B
+Added Member To Class: ClassName=FTDI-USB Member=Component J7 SI-60062-F
+Added Member To Class: ClassName=FTDI-USB Member=Component J8 Mini-B
+Added Member To Class: ClassName=Limit Sensor Interface Member=Component J9 MHDR1X4
+Added Member To Class: ClassName=Limit Sensor Interface Member=Component J10 MHDR1X4
+Added Member To Class: ClassName=Limit Sensor Interface Member=Component J11 MHDR1X4
+Added Member To Class: ClassName=Limit Sensor Interface Member=Component J12 MHDR1X4
+Added Member To Class: ClassName=Limit Sensor Interface Member=Component J13 MHDR1X4
+Added Member To Class: ClassName=Limit Sensor Interface Member=Component J14 MHDR1X4
+Added Member To Class: ClassName=Limit Sensor Interface Member=Component J15 MHDR1X4
+Added Member To Class: ClassName=MCU Member=Component J16 Programmer
+Added Member To Class: ClassName=MCU Member=Component J17 1X3
+Added Member To Class: ClassName=MCU Member=Component J18 shrouded box header
+Added Member To Class: ClassName=MCU Member=Component J19 Value
+Added Member To Class: ClassName=MCU Member=Component J20 shrouded box header
+Added Member To Class: ClassName=MCU Member=Component J21 Stackable ScrewTerm
+Added Member To Class: ClassName=MCU Member=Component J22 Stackable ScrewTerm
+Added Member To Class: ClassName=Power Member=Component J23 Stackable ScrewTerm
+Added Member To Class: ClassName=Power Member=Component J24 Stackable ScrewTerm
+Added Member To Class: ClassName=Power Member=Component J25 CONN_PWR_JACK_2.1x5.5mm
+Added Member To Class: ClassName=Power Member=Component J26 Stackable ScrewTerm
+Added Member To Class: ClassName=Power Member=Component J27 Stackable ScrewTerm
+Added Member To Class: ClassName=FTDI-USB Member=Component R1 49.9
+Added Member To Class: ClassName=FTDI-USB Member=Component R2 49.9
+Added Member To Class: ClassName=FTDI-USB Member=Component R3 49.9
+Added Member To Class: ClassName=FTDI-USB Member=Component R4 49.9
+Added Member To Class: ClassName=FTDI-USB Member=Component R5 1.5K
+Added Member To Class: ClassName=FTDI-USB Member=Component R6 249
+Added Member To Class: ClassName=FTDI-USB Member=Component R7 249
+Added Member To Class: ClassName=FTDI-USB Member=Component R8 33
+Added Member To Class: ClassName=FTDI-USB Member=Component R9 33
+Added Member To Class: ClassName=FTDI-USB Member=Component R10 33
+Added Member To Class: ClassName=FTDI-USB Member=Component R11 1.5K
+Added Member To Class: ClassName=FTDI-USB Member=Component R12 4.87K
+Added Member To Class: ClassName=FTDI-USB Member=Component R13 2.2K
+Added Member To Class: ClassName=FTDI-USB Member=Component R14 33
+Added Member To Class: ClassName=FTDI-USB Member=Component R15 33
+Added Member To Class: ClassName=FTDI-USB Member=Component R16 33
+Added Member To Class: ClassName=FTDI-USB Member=Component R17 2.2K
+Added Member To Class: ClassName=FTDI-USB Member=Component R18 2.2K
+Added Member To Class: ClassName=FTDI-USB Member=Component R19 10K
+Added Member To Class: ClassName=FTDI-USB Member=Component R20 10K
+Added Member To Class: ClassName=FTDI-USB Member=Component R21 10K
+Added Member To Class: ClassName=FTDI-USB Member=Component R22 100
+Added Member To Class: ClassName=FTDI-USB Member=Component R23 0
+Added Member To Class: ClassName=FTDI-USB Member=Component R24 100
+Added Member To Class: ClassName=FTDI-USB Member=Component R25 27
+Added Member To Class: ClassName=FTDI-USB Member=Component R26 27
+Added Member To Class: ClassName=MCU Member=Component R27 10K
+Added Member To Class: ClassName=MCU Member=Component R28 470
+Added Member To Class: ClassName=MCU Member=Component R29 10
+Added Member To Class: ClassName=MCU Member=Component R30 1.0K
+Added Member To Class: ClassName=Power Member=Component R31 100
+Added Member To Class: ClassName=Power Member=Component R32 100
+Added Member To Class: ClassName=Power Member=Component R33 100
+Added Member To Class: ClassName=Power Member=Component R34 100K
+Added Member To Class: ClassName=Power Member=Component R35 100K
+Added Member To Class: ClassName=Power Member=Component R36 100K
+Added Member To Class: ClassName=Power Member=Component R37 100K
+Added Member To Class: ClassName=Power Member=Component R38 100K
+Added Member To Class: ClassName=Power Member=Component R39 100K
+Added Member To Class: ClassName=Power Member=Component S1 ON-ON
+Added Member To Class: ClassName=MCU Member=Component SW1 Value
+Added Member To Class: ClassName=FTDI-USB Member=Component TP1 ValueValueAux
+Added Member To Class: ClassName=FTDI-USB Member=Component U1 DP83848CVV/NOPB
+Added Member To Class: ClassName=FTDI-USB Member=Component U2 FT230XS-R
+Added Member To Class: ClassName=Limit Sensor Interface Member=Component U3 CD4071BCM
+Added Member To Class: ClassName=MCU Member=Component U4 PIC32MX795F512L-80V/PF
+Added Member To Class: ClassName=MCU Member=Component U5 TXB0108PWR
+Added Member To Class: ClassName=MCU Member=Component U6 CD4069UBCM
+Added Member To Class: ClassName=Power Member=Component U7 ADP7104ACPZ-3.3-R7
+Added Member To Class: ClassName=Power Member=Component U8 ADP7104ACPZ-2.5-R7
+Added Member To Class: ClassName=Power Member=Component U9 ADP7104ACPZ-1.8-R7
+Added Member To Class: ClassName=FTDI-USB Member=Component Y1 50MHz
+Added Member To Class: ClassName=MCU Member=Component Y2 32kHz
+Added Member To Class: ClassName=MCU Member=Component Y3 8MHz
+Added Room: Name=Block Diagram
+Added Room: Name=Limit Sensor Interface
+Added Room: Name=MCU
+Added Room: Name=Power

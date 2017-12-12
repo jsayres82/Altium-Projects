@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=X_STEP Pin=U4-72
+Removed Pin From Net: NetName=Y1_STEP Pin=U4-76
+Added Pin To Net: NetName=Y1_STEP Pin=U4-72
+Added Pin To Net: NetName=X_STEP Pin=U4-76
+Added Room: Name=Block Diagram
+Added Room: Name=FTDI-USB
+Added Room: Name=Limit Sensor Interface
+Added Room: Name=MCU
+Added Room: Name=Power

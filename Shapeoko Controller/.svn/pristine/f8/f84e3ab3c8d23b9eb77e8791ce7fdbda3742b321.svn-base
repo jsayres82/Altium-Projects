@@ -1,0 +1,245 @@
+Removed Pin From Net: NetName=GND Pin=C1-2
+Removed Pin From Net: NetName=GND Pin=C2-2
+Removed Pin From Net: NetName=3V3OUT Pin=C3-1
+Removed Pin From Net: NetName=GND Pin=C3-2
+Removed Pin From Net: NetName=VCC Pin=C5-1
+Removed Pin From Net: NetName=GND Pin=C5-2
+Removed Pin From Net: NetName=GND Pin=C7-2
+Removed Pin From Net: NetName=3V3VCC Pin=C9-2
+Removed Pin From Net: NetName=3V3VCC Pin=C10-2
+Removed Pin From Net: NetName=3V3VCC Pin=C12-2
+Removed Pin From Net: NetName=3V3VCC Pin=C13-2
+Removed Pin From Net: NetName=2V5VCC Pin=C14-2
+Removed Pin From Net: NetName=2V5VCC Pin=C15-2
+Removed Pin From Net: NetName=2V5VCC Pin=C16-2
+Removed Pin From Net: NetName=GND Pin=C17-1
+Removed Pin From Net: NetName=2V5VCC Pin=C17-2
+Removed Pin From Net: NetName=1V8VCC Pin=C18-2
+Removed Pin From Net: NetName=1V8VCC Pin=C19-2
+Removed Pin From Net: NetName=1V8VCC Pin=C20-2
+Removed Pin From Net: NetName=1V8VCC Pin=C21-2
+Removed Pin From Net: NetName=3V3VCC Pin=C22-1
+Removed Pin From Net: NetName=GND Pin=C23-2
+Removed Pin From Net: NetName=2V5VCC Pin=C24-1
+Removed Pin From Net: NetName=GND Pin=C25-2
+Removed Pin From Net: NetName=1V8VCC Pin=C26-1
+Removed Pin From Net: NetName=GND Pin=C27-2
+Removed Pin From Net: NetName=GND Pin=J1-5
+Removed Pin From Net: NetName=5VDC Pin=J2-2
+Removed Pin From Net: NetName=GND Pin=J2-3
+Removed Pin From Net: NetName=5VDC Pin=J3-2
+Removed Pin From Net: NetName=GND Pin=J3-3
+Removed Pin From Net: NetName=5VDC Pin=J4-2
+Removed Pin From Net: NetName=GND Pin=J4-3
+Removed Pin From Net: NetName=5VDC Pin=J5-2
+Removed Pin From Net: NetName=GND Pin=J5-3
+Removed Pin From Net: NetName=GND Pin=J7-10
+Removed Pin From Net: NetName=GND Pin=J8-10
+Removed Pin From Net: NetName=GND Pin=J9-10
+Removed Pin From Net: NetName=3V3OUT Pin=R1-2
+Removed Pin From Net: NetName=3V3OUT Pin=R2-2
+Removed Pin From Net: NetName=3V3OUT Pin=R3-2
+Removed Pin From Net: NetName=NetD1_2 Pin=R4-2
+Removed Pin From Net: NetName=NetD2_2 Pin=R5-2
+Removed Pin From Net: NetName=VCC Pin=R6-2
+Removed Pin From Net: NetName=3V3VCC Pin=R9-2
+Removed Pin From Net: NetName=NetD3_2 Pin=R10-2
+Removed Pin From Net: NetName=NetD4_2 Pin=R11-2
+Removed Pin From Net: NetName=NetD5_2 Pin=R12-2
+Removed Pin From Net: NetName=GND Pin=R14-1
+Removed Pin From Net: NetName=2V5ENA Pin=R15-2
+Removed Pin From Net: NetName=GND Pin=R16-1
+Removed Pin From Net: NetName=1V8ENA Pin=R17-2
+Removed Pin From Net: NetName=GND Pin=R18-1
+Removed Pin From Net: NetName=GND Pin=S1-1
+Removed Pin From Net: NetName=GND Pin=S1-3
+Removed Pin From Net: NetName=TXDATA Pin=U1-1
+Removed Pin From Net: NetName=3V3OUT Pin=U1-3
+Removed Pin From Net: NetName=RXDATA Pin=U1-4
+Removed Pin From Net: NetName=GND Pin=U1-5
+Removed Pin From Net: NetName=3V3OUT Pin=U1-10
+Removed Pin From Net: NetName=3V3OUT Pin=U1-11
+Removed Pin From Net: NetName=VCC Pin=U1-12
+Removed Pin From Net: NetName=GND Pin=U1-13
+Removed Pin From Net: NetName=3V3VCC Pin=U3-30
+Removed Pin From Net: NetName=GND Pin=U3-31
+Removed Pin From Net: NetName=3V3VCC Pin=U3-85
+Removed Member From Class: ClassName=MCU Member=C8
+Removed Member From Class: ClassName=MCU Member=C9
+Removed Member From Class: ClassName=MCU Member=C10
+Removed Member From Class: ClassName=MCU Member=C11
+Removed Member From Class: ClassName=MCU Member=C12
+Removed Member From Class: ClassName=MCU Member=C13
+Removed Member From Class: ClassName=MCU Member=C14
+Removed Member From Class: ClassName=Power Member=C22
+Removed Member From Class: ClassName=Power Member=C23
+Removed Member From Class: ClassName=Power Member=C24
+Removed Member From Class: ClassName=Power Member=C25
+Removed Member From Class: ClassName=Power Member=C26
+Removed Member From Class: ClassName=Power Member=C27
+Removed Member From Class: ClassName=FTDI-USB Member=J1
+Removed Member From Class: ClassName=MCU Member=J7
+Removed Member From Class: ClassName=MCU Member=J8
+Removed Member From Class: ClassName=MCU Member=J9
+Removed Member From Class: ClassName=MCU Member=J10
+Removed Member From Class: ClassName=MCU Member=R9
+Removed Member From Class: ClassName=Power Member=R10
+Removed Member From Class: ClassName=Power Member=R11
+Removed Member From Class: ClassName=Power Member=R12
+Removed Member From Class: ClassName=Power Member=R13
+Removed Member From Class: ClassName=Power Member=R14
+Removed Member From Class: ClassName=Power Member=R15
+Removed Member From Class: ClassName=Power Member=R16
+Removed Member From Class: ClassName=Power Member=R17
+Removed Member From Class: ClassName=Power Member=R18
+Removed Member From Class: ClassName=MCU Member=S1
+Removed Member From Class: ClassName=Limit Sensor Interface Member=U2
+Removed Member From Class: ClassName=MCU Member=Y1
+Change Component DesignItemId : Designator=J10 Old DesignItemId=0481900001 New DesignItemId=MHDR1X4
+Change Component DesignItemId : Designator=C1 Old DesignItemId=CAP-NP New DesignItemId=C0603C104K4RACTU
+Change Component DesignItemId : Designator=C2 Old DesignItemId=CAP-NP New DesignItemId=C0603C104K4RACTU
+Change Component DesignItemId : Designator=C4 Old DesignItemId=CAP-NP New DesignItemId=C0603C104K4RACTU
+Change Component DesignItemId : Designator=C5 Old DesignItemId=CAP-NP New DesignItemId=C0603C104K4RACTU
+Change Component DesignItemId : Designator=C6 Old DesignItemId=CAP-NP New DesignItemId=C0603C104K4RACTU
+Change Component DesignItemId : Designator=C7 Old DesignItemId=CAP-NP New DesignItemId=C0603C104K4RACTU
+Change Component DesignItemId : Designator=C22 Old DesignItemId=CAP-NP New DesignItemId=C0603C104K4RACTU
+Change Component DesignItemId : Designator=C23 Old DesignItemId=CAP-NP New DesignItemId=C0603C104K4RACTU
+Change Component DesignItemId : Designator=C24 Old DesignItemId=CAP-NP New DesignItemId=C0603C104K4RACTU
+Change Component DesignItemId : Designator=C25 Old DesignItemId=CAP-NP New DesignItemId=C0603C104K4RACTU
+Change Component DesignItemId : Designator=C26 Old DesignItemId=CAP-NP New DesignItemId=C0603C104K4RACTU
+Change Component DesignItemId : Designator=C27 Old DesignItemId=CAP-NP New DesignItemId=C0603C104K4RACTU
+Change Component DesignItemId : Designator=C3 Old DesignItemId=CAP-NP New DesignItemId=C0805C475K8PACTU
+Change Component DesignItemId : Designator=C9 Old DesignItemId=Cap Semi New DesignItemId=C0603C104K4RACTU
+Change Component DesignItemId : Designator=C10 Old DesignItemId=Cap Semi New DesignItemId=C0603C104K4RACTU
+Change Component DesignItemId : Designator=C11 Old DesignItemId=Cap Semi New DesignItemId=C0603C104K4RACTU
+Change Component DesignItemId : Designator=C14 Old DesignItemId=Cap Semi New DesignItemId=C0603C104K4RACTU
+Change Component DesignItemId : Designator=C20 Old DesignItemId=Cap Semi New DesignItemId=C0603C104K4RACTU
+Change Component DesignItemId : Designator=C21 Old DesignItemId=Cap Semi New DesignItemId=C0603C104K4RACTU
+Change Component DesignItemId : Designator=C18 Old DesignItemId=Cap Semi New DesignItemId=C0603C200J5GACTU
+Change Component DesignItemId : Designator=C19 Old DesignItemId=Cap Semi New DesignItemId=C0603C200J5GACTU
+Change Component DesignItemId : Designator=C12 Old DesignItemId=Cap Semi New DesignItemId=C0603C473K3RACTU
+Change Component DesignItemId : Designator=C13 Old DesignItemId=Cap Semi New DesignItemId=C0603C473K3RACTU
+Change Component DesignItemId : Designator=C8 Old DesignItemId=Cap Semi New DesignItemId=C0805C106K9PACTU
+Change Component DesignItemId : Designator=C15 Old DesignItemId=Cap Semi New DesignItemId=C0805C106K9PACTU
+Change Component DesignItemId : Designator=C16 Old DesignItemId=Cap Semi New DesignItemId=C0805C106K9PACTU
+Change Component DesignItemId : Designator=C17 Old DesignItemId=Cap Semi New DesignItemId=C0805C106K9PACTU
+Change Component DesignItemId : Designator=U1 Old DesignItemId=COM-USB-FT230XS-IL16 New DesignItemId=DP83848CVV/NOPB
+Change Component DesignItemId : Designator=Y1 Old DesignItemId=ECS-40-20-7M New DesignItemId=K50-3C0SE50.0000MR
+Change Component DesignItemId : Designator=R8 Old DesignItemId=ERJ3EK New DesignItemId=ERJ-3EKF2490V
+Change Component DesignItemId : Designator=R7 Old DesignItemId=ERJ3EK New DesignItemId=ERJ-3GEYJ330V
+Change Component DesignItemId : Designator=R5 Old DesignItemId=ERJ3RB New DesignItemId=ERJ-1GEJ152C
+Change Component DesignItemId : Designator=R11 Old DesignItemId=ERJ3RB New DesignItemId=ERJ-1GEJ152C
+Change Component DesignItemId : Designator=R1 Old DesignItemId=ERJ3RB New DesignItemId=ERJ-3EKF49R9V
+Change Component DesignItemId : Designator=R2 Old DesignItemId=ERJ3RB New DesignItemId=ERJ-3EKF49R9V
+Change Component DesignItemId : Designator=R3 Old DesignItemId=ERJ3RB New DesignItemId=ERJ-3EKF49R9V
+Change Component DesignItemId : Designator=R4 Old DesignItemId=ERJ3RB New DesignItemId=ERJ-3EKF49R9V
+Change Component DesignItemId : Designator=R12 Old DesignItemId=ERJ3RB New DesignItemId=ERJ-3EKF4871V
+Change Component DesignItemId : Designator=R13 Old DesignItemId=ERJ3RB New DesignItemId=ERJ-3GEYJ222V
+Change Component DesignItemId : Designator=R17 Old DesignItemId=ERJ3RB New DesignItemId=ERJ-3GEYJ222V
+Change Component DesignItemId : Designator=R18 Old DesignItemId=ERJ3RB New DesignItemId=ERJ-3GEYJ222V
+Change Component DesignItemId : Designator=R9 Old DesignItemId=ERJ3RB New DesignItemId=ERJ-3GEYJ330V
+Change Component DesignItemId : Designator=R10 Old DesignItemId=ERJ3RB New DesignItemId=ERJ-3GEYJ330V
+Change Component DesignItemId : Designator=R14 Old DesignItemId=ERJ3RB New DesignItemId=ERJ-3GEYJ330V
+Change Component DesignItemId : Designator=R15 Old DesignItemId=ERJ3RB New DesignItemId=ERJ-3GEYJ330V
+Change Component DesignItemId : Designator=R16 Old DesignItemId=ERJ3RB New DesignItemId=ERJ-3GEYJ330V
+Change Component DesignItemId : Designator=R6 Old DesignItemId=ERJ6RS New DesignItemId=ERJ-3EKF2490V
+Change Component DesignItemId : Designator=J7 Old DesignItemId=Header 5X2 New DesignItemId=MUSB-05-F-B-SM-A
+Change Component DesignItemId : Designator=J9 Old DesignItemId=Header 5X2 New DesignItemId=MUSB-05-F-B-SM-A
+Change Component DesignItemId : Designator=J8 Old DesignItemId=Header 5X2 New DesignItemId=SI-60062-F
+Change Component DesignItemId : Designator=J2 Old DesignItemId=MHDR1X4 New DesignItemId=Header 5X2
+Change Component DesignItemId : Designator=J3 Old DesignItemId=MHDR1X4 New DesignItemId=Header 5X2
+Change Component DesignItemId : Designator=J4 Old DesignItemId=MHDR1X4 New DesignItemId=Header 5X2
+Change Component DesignItemId : Designator=J5 Old DesignItemId=MHDR1X4 New DesignItemId=Header 5X2
+Change Component DesignItemId : Designator=J1 Old DesignItemId=MUSB-05-F-B-SM-A New DesignItemId=Header 5X2
+Change Component Footprint: Designator=C22 Old Footprint=1608[0603] New Footprint=0603
+Change Component Footprint: Designator=C23 Old Footprint=1608[0603] New Footprint=0603
+Change Component Footprint: Designator=C24 Old Footprint=1608[0603] New Footprint=0603
+Change Component Footprint: Designator=C25 Old Footprint=1608[0603] New Footprint=0603
+Change Component Footprint: Designator=C26 Old Footprint=1608[0603] New Footprint=0603
+Change Component Footprint: Designator=C27 Old Footprint=1608[0603] New Footprint=0603
+Change Component Footprint: Designator=J10 Old Footprint=481900001 New Footprint=HDR1X4
+Change Component Footprint: Designator=C12 Old Footprint=C1206 New Footprint=0603
+Change Component Footprint: Designator=C13 Old Footprint=C1206 New Footprint=0603
+Change Component Footprint: Designator=C14 Old Footprint=C1206 New Footprint=0603
+Change Component Footprint: Designator=C18 Old Footprint=C1206 New Footprint=0603
+Change Component Footprint: Designator=C19 Old Footprint=C1206 New Footprint=0603
+Change Component Footprint: Designator=C20 Old Footprint=C1206 New Footprint=0603
+Change Component Footprint: Designator=C21 Old Footprint=C1206 New Footprint=0603
+Change Component Footprint: Designator=C15 Old Footprint=C1206 New Footprint=C0805
+Change Component Footprint: Designator=C16 Old Footprint=C1206 New Footprint=C0805
+Change Component Footprint: Designator=C17 Old Footprint=C1206 New Footprint=C0805
+Change Component Footprint: Designator=C9 Old Footprint=C1206 New Footprint=cap_0603
+Change Component Footprint: Designator=C10 Old Footprint=C1206 New Footprint=cap_0603
+Change Component Footprint: Designator=C11 Old Footprint=C1206 New Footprint=cap_0603
+Change Component Footprint: Designator=C8 Old Footprint=C1206 New Footprint=cap_0805
+Change Component Footprint: Designator=C4 Old Footprint=CAPC1005 New Footprint=0603
+Change Component Footprint: Designator=C5 Old Footprint=CAPC1005 New Footprint=0603
+Change Component Footprint: Designator=C6 Old Footprint=CAPC1005 New Footprint=0603
+Change Component Footprint: Designator=C3 Old Footprint=CAPC1005 New Footprint=C0805
+Change Component Footprint: Designator=C1 Old Footprint=CAPC1005 New Footprint=cap_0603
+Change Component Footprint: Designator=C2 Old Footprint=CAPC1005 New Footprint=cap_0603
+Change Component Footprint: Designator=C7 Old Footprint=CAPC1005 New Footprint=cap_0603
+Change Component Footprint: Designator=Y1 Old Footprint=ECX-3M New Footprint=K50-3C
+Change Component Footprint: Designator=J2 Old Footprint=HDR1X4 New Footprint=HDR2X5
+Change Component Footprint: Designator=J3 Old Footprint=HDR1X4 New Footprint=HDR2X5
+Change Component Footprint: Designator=J4 Old Footprint=HDR1X4 New Footprint=HDR2X5
+Change Component Footprint: Designator=J5 Old Footprint=HDR1X4 New Footprint=HDR2X5
+Change Component Footprint: Designator=J8 Old Footprint=HDR2X5 New Footprint=ETHERNET
+Change Component Footprint: Designator=J7 Old Footprint=HDR2X5 New Footprint=MUSB-05-X-B-SM-A
+Change Component Footprint: Designator=J9 Old Footprint=HDR2X5 New Footprint=MUSB-05-X-B-SM-A
+Change Component Footprint: Designator=J1 Old Footprint=MUSB-05-X-B-SM-A New Footprint=HDR2X5
+Change Component Footprint: Designator=U1 Old Footprint=SSOP-16_M New Footprint=VBH48A_N
+Change Component Comment : Designator=R6 Old Comment=0 New Comment=249
+Change Component Comment : Designator=C3 Old Comment=0.1uF New Comment=4.7uF
+Change Component Comment : Designator=R9 Old Comment=1K New Comment=33
+Change Component Comment : Designator=C22 Old Comment=1uF New Comment=0.1uF
+Change Component Comment : Designator=C23 Old Comment=1uF New Comment=0.1uF
+Change Component Comment : Designator=C24 Old Comment=1uF New Comment=0.1uF
+Change Component Comment : Designator=C25 Old Comment=1uF New Comment=0.1uF
+Change Component Comment : Designator=C26 Old Comment=1uF New Comment=0.1uF
+Change Component Comment : Designator=C27 Old Comment=1uF New Comment=0.1uF
+Change Component Comment : Designator=C4 Old Comment=4.7uF New Comment=0.1uF
+Change Component Comment : Designator=Y1 Old Comment=4 MHz New Comment=50MHz
+Change Component Comment : Designator=R1 Old Comment=10k New Comment=49.9
+Change Component Comment : Designator=R2 Old Comment=10k New Comment=49.9
+Change Component Comment : Designator=R3 Old Comment=10k New Comment=49.9
+Change Component Comment : Designator=C6 Old Comment=10nF New Comment=0.1uF
+Change Component Comment : Designator=C9 Old Comment=10uF New Comment=0.1uF
+Change Component Comment : Designator=R7 Old Comment=27 New Comment=33
+Change Component Comment : Designator=R8 Old Comment=27 New Comment=249
+Change Component Comment : Designator=C1 Old Comment=47pF New Comment=0.1uF
+Change Component Comment : Designator=C2 Old Comment=47pF New Comment=0.1uF
+Change Component Comment : Designator=R5 Old Comment=100 New Comment=1.5K
+Change Component Comment : Designator=R11 Old Comment=100 New Comment=1.5K
+Change Component Comment : Designator=R12 Old Comment=100 New Comment=4.87K
+Change Component Comment : Designator=R10 Old Comment=100 New Comment=33
+Change Component Comment : Designator=R4 Old Comment=100 New Comment=49.9
+Change Component Comment : Designator=R13 Old Comment=100k New Comment=2.2K
+Change Component Comment : Designator=R17 Old Comment=100k New Comment=2.2K
+Change Component Comment : Designator=R18 Old Comment=100k New Comment=2.2K
+Change Component Comment : Designator=R14 Old Comment=100k New Comment=33
+Change Component Comment : Designator=R15 Old Comment=100k New Comment=33
+Change Component Comment : Designator=R16 Old Comment=100k New Comment=33
+Change Component Comment : Designator=C10 Old Comment=100uF New Comment=0.1uF
+Change Component Comment : Designator=C11 Old Comment=100uF New Comment=0.1uF
+Change Component Comment : Designator=C14 Old Comment=100uF New Comment=0.1uF
+Change Component Comment : Designator=C20 Old Comment=100uF New Comment=0.1uF
+Change Component Comment : Designator=C21 Old Comment=100uF New Comment=0.1uF
+Change Component Comment : Designator=C12 Old Comment=100uF New Comment=0.047uF
+Change Component Comment : Designator=C13 Old Comment=100uF New Comment=0.047uF
+Change Component Comment : Designator=C15 Old Comment=100uF New Comment=10uF
+Change Component Comment : Designator=C16 Old Comment=100uF New Comment=10uF
+Change Component Comment : Designator=C17 Old Comment=100uF New Comment=10uF
+Change Component Comment : Designator=C18 Old Comment=100uF New Comment=20pF
+Change Component Comment : Designator=C19 Old Comment=100uF New Comment=20pF
+Change Component Comment : Designator=C8 Old Comment=470nF New Comment=10uF
+Change Component Comment : Designator=J10 Old Comment=0481900001 New Comment=MHDR1X4
+Change Component Comment : Designator=U1 Old Comment=COM-USB-FT230XS-IL16 New Comment=DP83848CVV/NOPB
+Change Component Comment : Designator=J7 Old Comment=Header 5X2 New Comment=Mini-B
+Change Component Comment : Designator=J9 Old Comment=Header 5X2 New Comment=Mini-B
+Change Component Comment : Designator=J8 Old Comment=Header 5X2 New Comment=SI-60062-F
+Change Component Comment : Designator=J2 Old Comment=MHDR1X4 New Comment=Header 5X2
+Change Component Comment : Designator=J3 Old Comment=MHDR1X4 New Comment=Header 5X2
+Change Component Comment : Designator=J4 Old Comment=MHDR1X4 New Comment=Header 5X2
+Change Component Comment : Designator=J5 Old Comment=MHDR1X4 New Comment=Header 5X2
+Change Component Comment : Designator=J1 Old Comment=MUSB-05-F-B-SM-A New Comment=Header 5X2

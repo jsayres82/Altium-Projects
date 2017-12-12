@@ -1,0 +1,38 @@
+Removed Pin From Net: NetName=Y1_HOME Pin=J2-9
+Removed Pin From Net: NetName=Y1_HOME Pin=J3-9
+Removed Pin From Net: NetName=X_DIR Pin=U3-3
+Removed Pin From Net: NetName=X_ENA Pin=U3-4
+Removed Pin From Net: NetName=X_MS1 Pin=U3-5
+Removed Pin From Net: NetName=X_MS2 Pin=U3-18
+Removed Pin From Net: NetName=X_HOME Pin=U3-19
+Removed Pin From Net: NetName=Y_LIMIT Pin=U3-22
+Removed Pin From Net: NetName=X_LIMIT Pin=U3-23
+Removed Pin From Net: NetName=TXDATA Pin=U3-39
+Removed Pin From Net: NetName=RXDATA Pin=U3-40
+Removed Pin From Net: NetName=ERXD0(2) Pin=U3-42
+Removed Pin From Net: NetName=ERXD1(2) Pin=U3-43
+Removed Pin From Net: NetName=SP_VCC Pin=U3-47
+Removed Pin From Net: NetName=SP_TACH Pin=U3-48
+Removed Pin From Net: NetName=Z_ENA Pin=U3-58
+Removed Pin From Net: NetName=Z_MS1 Pin=U3-59
+Removed Pin From Net: NetName=Z_HOME Pin=U3-61
+Removed Pin From Net: NetName=LIMIT_INT Pin=U3-67
+Removed Pin From Net: NetName=Y2_HOME Pin=U3-70
+Removed Pin From Net: NetName=ETXEN(2) Pin=U3-83
+Removed Pin From Net: NetName=ETXD1(2) Pin=U3-87
+Removed Pin From Net: NetName=ETXD0(2) Pin=U3-88
+Change Component DesignItemId : Designator=J1 Old DesignItemId=Header 5X2 New DesignItemId=CONN_HEADER_2x5P_0.100in_Male
+Change Component DesignItemId : Designator=J2 Old DesignItemId=Header 5X2 New DesignItemId=CONN_HEADER_2x5P_0.100in_Male
+Change Component DesignItemId : Designator=J3 Old DesignItemId=Header 5X2 New DesignItemId=CONN_HEADER_2x5P_0.100in_Male
+Change Component DesignItemId : Designator=J4 Old DesignItemId=Header 5X2 New DesignItemId=CONN_HEADER_2x5P_0.100in_Male
+Change Component DesignItemId : Designator=J5 Old DesignItemId=Header 5X2 New DesignItemId=CONN_HEADER_2x5P_0.100in_Male
+Change Component Footprint: Designator=J1 Old Footprint=HDR2X5 New Footprint=10P_PCB_HEADER_BRD_MNT
+Change Component Footprint: Designator=J2 Old Footprint=HDR2X5 New Footprint=10P_PCB_HEADER_BRD_MNT
+Change Component Footprint: Designator=J3 Old Footprint=HDR2X5 New Footprint=10P_PCB_HEADER_BRD_MNT
+Change Component Footprint: Designator=J4 Old Footprint=HDR2X5 New Footprint=10P_PCB_HEADER_BRD_MNT
+Change Component Footprint: Designator=J5 Old Footprint=HDR2X5 New Footprint=10P_PCB_HEADER_BRD_MNT
+Change Component Comment : Designator=J1 Old Comment=Header 5X2 New Comment=shrouded box header
+Change Component Comment : Designator=J2 Old Comment=Header 5X2 New Comment=shrouded box header
+Change Component Comment : Designator=J3 Old Comment=Header 5X2 New Comment=shrouded box header
+Change Component Comment : Designator=J4 Old Comment=Header 5X2 New Comment=shrouded box header
+Change Component Comment : Designator=J5 Old Comment=Header 5X2 New Comment=shrouded box header

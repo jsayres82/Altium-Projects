@@ -1,0 +1,9 @@
+Change Component Footprint: Designator=U2 Old Footprint=SO-16_N New Footprint=M14A_N
+Added Pin To Net: NetName=X_LIMIT Pin=J15-1
+Added Pin To Net: NetName=5VDC Pin=J15-2
+Added Pin To Net: NetName=GND Pin=J15-3
+Added Pin To Net: NetName=Y_LIMIT Pin=J16-1
+Added Pin To Net: NetName=5VDC Pin=J16-2
+Added Pin To Net: NetName=GND Pin=J16-3
+Added Member To Class: ClassName=Limit Sensor Interface Member=Component J15 MHDR1X4
+Added Member To Class: ClassName=Limit Sensor Interface Member=Component J16 MHDR1X4

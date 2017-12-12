@@ -1,0 +1,151 @@
+Removed Pin From Net: NetName=NetC15_2 Pin=C15-2
+Removed Pin From Net: NetName=5VDC Pin=D3-1
+Removed Pin From Net: NetName=5VDC Pin=D5-1
+Removed Pin From Net: NetName=X_ENA Pin=J1-1
+Removed Pin From Net: NetName=5VOUT Pin=J1-2
+Removed Pin From Net: NetName=X_SLP Pin=J1-3
+Removed Pin From Net: NetName=X_RST Pin=J1-4
+Removed Pin From Net: NetName=X_DIR Pin=J1-5
+Removed Pin From Net: NetName=X_STEP Pin=J1-6
+Removed Pin From Net: NetName=X_MS2 Pin=J1-7
+Removed Pin From Net: NetName=X_MS1 Pin=J1-8
+Removed Pin From Net: NetName=X_HM Pin=J1-9
+Removed Pin From Net: NetName=GND Pin=J1-10
+Removed Pin From Net: NetName=Y1_STEP Pin=J2-6
+Removed Pin From Net: NetName=Y1_MS2 Pin=J2-7
+Removed Pin From Net: NetName=Y1_MS1 Pin=J2-8
+Removed Pin From Net: NetName=Y1_ENA Pin=J2-9
+Removed Pin From Net: NetName=Z_MAX Pin=J15-1
+Removed Pin From Net: NetName=Y_LIMIT Pin=J16-1
+Removed Pin From Net: NetName=5VDC Pin=J16-2
+Removed Pin From Net: NetName=LIMIT_INT Pin=U2-11
+Removed Pin From Net: NetName=Z_MAX Pin=U2-13
+Removed Pin From Net: NetName=ANALOG5 Pin=U3-41
+Removed Pin From Net: NetName=ERXD0 Pin=U3-42
+Removed Pin From Net: NetName=ERXD1 Pin=U3-43
+Removed Pin From Net: NetName=Z_MS2 Pin=U3-60
+Removed Pin From Net: NetName=Y1_ENA Pin=U8-13
+Removed Member From Class: ClassName=MCU Member=C20
+Removed Member From Class: ClassName=MCU Member=C21
+Removed Member From Class: ClassName=MCU Member=C22
+Removed Member From Class: ClassName=MCU Member=C23
+Removed Member From Class: ClassName=MCU Member=C24
+Removed Member From Class: ClassName=MCU Member=C25
+Removed Member From Class: ClassName=MCU Member=C26
+Removed Member From Class: ClassName=MCU Member=C27
+Removed Member From Class: ClassName=MCU Member=J21
+Removed Member From Class: ClassName=MCU Member=J22
+Removed Member From Class: ClassName=MCU Member=J23
+Removed Member From Class: ClassName=MCU Member=J24
+Change Component DesignItemId : Designator=J1 Old DesignItemId=CONN_HEADER_2x5P_0.100in_Male New DesignItemId=MHDR1X6
+Change Component Comment : Designator=J1 Old Comment=shrouded box header New Comment=ICP
+Change Component Comment : Designator=SW1 Old Comment=TL1015AF160QG New Comment=Value
+Change Component Description : Designator=J1 Old Description=Header THD 10 POS Double-row 2.54mm pitch New Description=Header, 6-Pin
+Change Component Library : Designator=J1 Old Library=PBL - Connectors.SCHLIB New Library=Miscellaneous Connectors.IntLib
+Added Component: Designator=J1(10P_PCB_HEADER_BRD_MNT)
+Added Component: Designator=J17(HDR1X4)
+Added Component: Designator=J?(1x3POS_HEADER)
+Added Pin To Net: NetName=NetC15_2 Pin=C15-1
+Added Pin To Net: NetName=\MCLR Pin=J1-1
+Added Pin To Net: NetName=X_ENA Pin=J1-1
+Added Pin To Net: NetName=3V3VCC Pin=J1-2
+Added Pin To Net: NetName=5VOUT Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J1-3
+Added Pin To Net: NetName=X_SLP Pin=J1-3
+Added Pin To Net: NetName=PGD Pin=J1-4
+Added Pin To Net: NetName=X_RST Pin=J1-4
+Added Pin To Net: NetName=PGC Pin=J1-5
+Added Pin To Net: NetName=X_DIR Pin=J1-5
+Added Pin To Net: NetName=X_STEP Pin=J1-6
+Added Pin To Net: NetName=X_MS2 Pin=J1-7
+Added Pin To Net: NetName=X_MS1 Pin=J1-8
+Added Pin To Net: NetName=X_HM Pin=J1-9
+Added Pin To Net: NetName=GND Pin=J1-10
+Added Pin To Net: NetName=Y1_MS2 Pin=J2-8
+Added Pin To Net: NetName=5VDC Pin=J17-1
+Added Pin To Net: NetName=GND Pin=J17-4
+Added Pin To Net: NetName=AUX_PWM Pin=J20-1
+Added Pin To Net: NetName=GND Pin=J?-2
+Added Pin To Net: NetName=ERXD0 Pin=R14-1
+Added Pin To Net: NetName=ERXD1 Pin=R15-1
+Added Pin To Net: NetName=ERXD0 Pin=U3-41
+Added Pin To Net: NetName=ERXD1 Pin=U3-42
+Added Pin To Net: NetName=ANALOG5 Pin=U3-43
+Added Pin To Net: NetName=LIMIT_INT Pin=U8-17
+Change Net Name : Old Net Name=ECRS_DV New Net Name=NetU1_40
+Change Net Name : Old Net Name=EMDC New Net Name=NetU1_31
+Change Net Name : Old Net Name=ETH_INT New Net Name=INT3/SCL1/RA14
+Change Net Name : Old Net Name=NetC15_2 New Net Name=NetC15_1
+Change Net Name : Old Net Name=Z_MAX New Net Name=X_LIMIT
+Added Pin To Net: NetName=NetD3_1 Pin=D3-1
+Added Pin To Net: NetName=NetD3_1 Pin=D5-1
+Added Net: Name=NetD3_1
+Added Pin To Net: NetName=NetJ17_2 Pin=J17-2
+Added Pin To Net: NetName=NetJ17_2 Pin=U3-17
+Added Net: Name=NetJ17_2
+Added Pin To Net: NetName=NetR7_1 Pin=R7-1
+Added Pin To Net: NetName=NetR7_1 Pin=U3-88
+Added Net: Name=NetR7_1
+Added Pin To Net: NetName=NetR9_1 Pin=R9-1
+Added Pin To Net: NetName=NetR9_1 Pin=U3-87
+Added Net: Name=NetR9_1
+Added Pin To Net: NetName=NetR10_1 Pin=R10-1
+Added Pin To Net: NetName=NetR10_1 Pin=U3-83
+Added Net: Name=NetR10_1
+Added Pin To Net: NetName=NetR11_2 Pin=R11-2
+Added Pin To Net: NetName=NetR11_2 Pin=U1-30
+Added Net: Name=NetR11_2
+Added Pin To Net: NetName=NetU3_49 Pin=U3-49
+Added Pin To Net: NetName=NetU3_49 Pin=U7-1
+Added Net: Name=NetU3_49
+Added Pin To Net: NetName=NetU3_50 Pin=U3-50
+Added Pin To Net: NetName=NetU3_50 Pin=U7-4
+Added Net: Name=NetU3_50
+Added Pin To Net: NetName=NetU3_68 Pin=U3-68
+Added Net: Name=NetU3_68
+Added Pin To Net: NetName=OSC1 Pin=C19-2
+Added Pin To Net: NetName=OSC1 Pin=U3-63
+Added Pin To Net: NetName=OSC1 Pin=Y2-1
+Added Net: Name=OSC1
+Added Pin To Net: NetName=OSC2 Pin=C18-2
+Added Pin To Net: NetName=OSC2 Pin=U3-64
+Added Pin To Net: NetName=OSC2 Pin=Y2-3
+Added Net: Name=OSC2
+Added Pin To Net: NetName=SOSC1 Pin=C45-2
+Added Pin To Net: NetName=SOSC1 Pin=U3-73
+Added Pin To Net: NetName=SOSC1 Pin=Y3-1
+Added Net: Name=SOSC1
+Added Pin To Net: NetName=SOSC2 Pin=C44-2
+Added Pin To Net: NetName=SOSC2 Pin=U3-74
+Added Pin To Net: NetName=SOSC2 Pin=Y3-2
+Added Net: Name=SOSC2
+Added Pin To Net: NetName=Y2_HM Pin=J2-9
+Added Pin To Net: NetName=Y2_HM Pin=U8-13
+Added Net: Name=Y2_HM
+Added Pin To Net: NetName=Y2_MS2 Pin=J2-7
+Added Net: Name=Y2_MS2
+Added Pin To Net: NetName=Y2_STEP Pin=J2-6
+Added Net: Name=Y2_STEP
+Added Pin To Net: NetName=Z_MIN Pin=J16-1
+Added Pin To Net: NetName=Z_MIN Pin=U2-12
+Added Net: Name=Z_MIN
+Added Member To Class: ClassName=Power Member=Component C20 0.1uF
+Added Member To Class: ClassName=Power Member=Component C21 0.1uF
+Added Member To Class: ClassName=Power Member=Component C22 0.1uF
+Added Member To Class: ClassName=Power Member=Component C23 0.1uF
+Added Member To Class: ClassName=Power Member=Component C24 0.1uF
+Added Member To Class: ClassName=Power Member=Component C25 0.1uF
+Added Member To Class: ClassName=Power Member=Component C26 0.1uF
+Added Member To Class: ClassName=Power Member=Component C27 0.1uF
+Added Member To Class: ClassName=MCU Member=Component J1 ICP
+Added Member To Class: ClassName=Limit Sensor Interface Member=Component J17 MHDR1X4
+Added Member To Class: ClassName=Power Member=Component J21 Stackable ScrewTerm
+Added Member To Class: ClassName=Power Member=Component J22 Stackable ScrewTerm
+Added Member To Class: ClassName=Power Member=Component J23 Stackable ScrewTerm
+Added Member To Class: ClassName=Power Member=Component J24 Stackable ScrewTerm
+Added Member To Class: ClassName=MCU Member=Component J? 1X3
+Added Room: Name=Block Diagram
+Added Room: Name=FTDI-USB
+Added Room: Name=Limit Sensor Interface
+Added Room: Name=MCU
+Added Room: Name=Power

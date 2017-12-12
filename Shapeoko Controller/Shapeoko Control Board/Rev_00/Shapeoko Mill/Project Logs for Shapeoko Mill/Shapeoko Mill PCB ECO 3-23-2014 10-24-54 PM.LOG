@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=X_ENA Pin=J1-1
+Removed Pin From Net: NetName=5VOUT Pin=J1-2
+Removed Pin From Net: NetName=X_SLP Pin=J1-3
+Removed Pin From Net: NetName=X_RST Pin=J1-4
+Removed Pin From Net: NetName=X_DIR Pin=J1-5
+Removed Pin From Net: NetName=X_STEP Pin=J1-6
+Removed Pin From Net: NetName=X_MS2 Pin=J1-7
+Removed Pin From Net: NetName=X_MS1 Pin=J1-8
+Removed Pin From Net: NetName=X_HM Pin=J1-9
+Removed Pin From Net: NetName=GND Pin=J1-10
+Removed Pin From Net: NetName=NetJ17_2 Pin=J17-2
+Change Component DesignItemId : Designator=J? Old DesignItemId=CONN_HEADER_1x3P_0.100in New DesignItemId=CONN_PWR_JACK_2.1x5.5mm
+Change Component DesignItemId : Designator=J17 Old DesignItemId=CONN_HEADER_2x5P_0.100in_Male New DesignItemId=MHDR1X4
+Change Component DesignItemId : Designator=J1 Old DesignItemId=CONN_HEADER_2x5P_0.100in_Male New DesignItemId=MHDR1X6
+Change Component DesignItemId : Designator=J? Old DesignItemId=CONN_PWR_JACK_2.1x5.5mm New DesignItemId=CONN_HEADER_1x3P_0.100in
+Change Component DesignItemId : Designator=J17 Old DesignItemId=MHDR1X4 New DesignItemId=CONN_HEADER_2x5P_0.100in_Male
+Change Component DesignItemId : Designator=J1 Old DesignItemId=MHDR1X6 New DesignItemId=CONN_HEADER_2x5P_0.100in_Male
+Change Component Footprint: Designator=J? Old Footprint=1x3POS_HEADER New Footprint=CONN_PWR_JACK_2.1x5.5mm
+Change Component Footprint: Designator=J17 Old Footprint=10P_PCB_HEADER_BRD_MNT New Footprint=HDR1X4
+Change Component Footprint: Designator=J? Old Footprint=CONN_PWR_JACK_2.1x5.5mm New Footprint=1x3POS_HEADER
+Change Component Footprint: Designator=J17 Old Footprint=HDR1X4 New Footprint=10P_PCB_HEADER_BRD_MNT
+Change Component Comment : Designator=J? Old Comment=1X3 New Comment=CONN_PWR_JACK_2.1x5.5mm
+Change Component Comment : Designator=J? Old Comment=CONN_PWR_JACK_2.1x5.5mm New Comment=1X3
+Change Component Comment : Designator=J1 Old Comment=ICP New Comment=shrouded box header
+Change Component Comment : Designator=J17 Old Comment=MHDR1X4 New Comment=shrouded box header
+Change Component Comment : Designator=J1 Old Comment=shrouded box header New Comment=ICP
+Change Component Comment : Designator=J17 Old Comment=shrouded box header New Comment=MHDR1X4

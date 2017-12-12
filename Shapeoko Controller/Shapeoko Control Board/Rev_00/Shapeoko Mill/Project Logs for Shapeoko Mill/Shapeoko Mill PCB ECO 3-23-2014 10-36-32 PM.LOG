@@ -1,0 +1,12 @@
+Change Component Footprint: Designator=U9 Old Footprint=M14A_N New Footprint=ADI-CP-8-5_V
+Change Component Description : Designator=C20 Old Description=CAP CER 0.1UF 16V 10% X7R 0603 New Description=CAP CER 11PF 25V 5% NP0 0201
+Change Component Description : Designator=C23 Old Description=CAP CER 0.1UF 16V 10% X7R 0603 New Description=CAP CER 11PF 25V 5% NP0 0201
+Change Component Description : Designator=C21 Old Description=CAP CER 0.1UF 16V 10% X7R 0603 New Description=CAP CER 20PF 50V 5% NP0 0603
+Change Component Description : Designator=C22 Old Description=CAP CER 0.1UF 16V 10% X7R 0603 New Description=CAP CER 20PF 50V 5% NP0 0603
+Change Component Description : Designator=C44 Old Description=CAP CER 11PF 25V 5% NP0 0201 New Description=CAP CER 0.1UF 16V 10% X7R 0603
+Change Component Description : Designator=C45 Old Description=CAP CER 11PF 25V 5% NP0 0201 New Description=CAP CER 0.1UF 16V 10% X7R 0603
+Change Component Description : Designator=C18 Old Description=CAP CER 20PF 50V 5% NP0 0603 New Description=CAP CER 0.1UF 16V 10% X7R 0603
+Change Component Description : Designator=C19 Old Description=CAP CER 20PF 50V 5% NP0 0603 New Description=CAP CER 0.1UF 16V 10% X7R 0603
+Change Component Description : Designator=J8 Old Description=CONN MAGJACK 1PORT 100 BASE-T New Description=CONN RECEPT USB MINI B SMD R/A
+Change Component Description : Designator=J9 Old Description=CONN RECEPT USB MINI B SMD R/A New Description=Header, 4-Pin
+Change Component Description : Designator=J16 Old Description=Header, 4-Pin New Description=Header, 6-Pin

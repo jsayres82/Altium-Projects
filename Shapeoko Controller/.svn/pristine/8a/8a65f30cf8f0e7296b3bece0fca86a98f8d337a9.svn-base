@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=XY_LIM Pin=U5-5
+Removed Pin From Net: NetName=X_LIM Pin=U5-6
+Removed Pin From Net: NetName=X_LIMIT Pin=U5-15
+Removed Pin From Net: NetName=LIMIT_INT Pin=U5-16
+Added Pin To Net: NetName=X_LIM Pin=U5-5
+Added Pin To Net: NetName=XY_LIM Pin=U5-6
+Added Pin To Net: NetName=LIMIT_INT Pin=U5-15
+Added Pin To Net: NetName=X_LIMIT Pin=U5-16

@@ -1,0 +1,80 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\Justin\Altium\Shapeoko Mill\Shapeoko Mill.PcbDoc
+Date     : 4/15/2014
+Time     : 12:41:48 AM
+
+Processing Rule : Width Constraint (Min=10mil) (Max=10mil) (Preferred=10mil) (InNet('3V3VCC'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=10mil) (Max=10mil) (Preferred=10mil) (InNet('5VDC'))
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=15mil) (Conductor Width=12mil) (Air Gap=10mil) (Entries=2) (InComponent('MH4'))
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=15mil) (Conductor Width=12mil) (Air Gap=10mil) (Entries=2) (InComponent('MH1'))
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=15mil) (Conductor Width=12mil) (Air Gap=10mil) (Entries=2) (InComponent('MH3'))
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=15mil) (Conductor Width=12mil) (Air Gap=10mil) (Entries=2) (InComponent('MH2'))
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=4mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=4mil) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=4mil) (Disabled)(All),(All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=12mil) (Max=200mil) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=7mil) (Max=15mil) (Preferred=8mil) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=7mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (Disabled)(All) )
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Room Block Diagram (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (Disabled)(InComponentClass('Block Diagram'))
+Rule Violations :0
+
+Processing Rule : Room FTDI-USB (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (Disabled)(InComponentClass('FTDI-USB'))
+Rule Violations :0
+
+Processing Rule : Room Limit Sensor Interface (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (Disabled)(InComponentClass('Limit Sensor Interface'))
+Rule Violations :0
+
+Processing Rule : Room MCU (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (Disabled)(InComponentClass('MCU'))
+Rule Violations :0
+
+Processing Rule : Room Power (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (Disabled)(InComponentClass('Power'))
+Rule Violations :0
+
+Processing Rule : Minimum Annular Ring (Minimum=7mil) (All)
+Rule Violations :0
+
+
+Violations Detected : 0
+Time Elapsed        : 00:00:02

@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=5VDC Pin=J14-2
+Added Pin To Net: NetName=GND Pin=J14-3
+Added Pin To Net: NetName=NetU1_41 Pin=U1-41
+Added Net: Name=NetU1_41
+Added Member To Class: ClassName=MCU Member=Component J18 shrouded box header

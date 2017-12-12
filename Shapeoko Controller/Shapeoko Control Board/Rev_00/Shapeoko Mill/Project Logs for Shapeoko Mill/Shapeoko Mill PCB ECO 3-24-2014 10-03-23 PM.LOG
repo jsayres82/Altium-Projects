@@ -1,0 +1,67 @@
+Removed Pin From Net: NetName=USB_D+ Pin=J6-1
+Removed Pin From Net: NetName=USB_D+ Pin=J6-2
+Removed Pin From Net: NetName=EREF_CLK Pin=R5-2
+Removed Pin From Net: NetName=EREF_CLK Pin=R8-1
+Removed Pin From Net: NetName=EREF_CLK Pin=R9-1
+Removed Pin From Net: NetName=EREF_CLK Pin=R10-1
+Removed Pin From Net: NetName=EREF_CLK Pin=R14-1
+Removed Pin From Net: NetName=EREF_CLK Pin=R15-1
+Removed Pin From Net: NetName=NetTP14_1 Pin=TP15-1
+Removed Pin From Net: NetName=EREF_CLK Pin=U1-7
+Removed Pin From Net: NetName=EREF_CLK Pin=U1-31
+Removed Pin From Net: NetName=EREF_CLK Pin=U1-40
+Removed Pin From Net: NetName=EREF_CLK Pin=U1-41
+Removed Pin From Net: NetName=NetTP14_1 Pin=U2-4
+Removed Pin From Net: NetName=EREF_CLK Pin=U4-12
+Removed Pin From Net: NetName=EREF_CLK Pin=U4-35
+Removed Pin From Net: NetName=EREF_CLK Pin=U4-41
+Removed Pin From Net: NetName=EREF_CLK Pin=U4-42
+Removed Pin From Net: NetName=NetTP14_1 Pin=U4-50
+Removed Pin From Net: NetName=USB_D+ Pin=U4-54
+Removed Pin From Net: NetName=USB_D+ Pin=U4-56
+Removed Pin From Net: NetName=EREF_CLK Pin=U4-67
+Removed Pin From Net: NetName=EREF_CLK Pin=U4-71
+Removed Pin From Net: NetName=EREF_CLK Pin=U4-83
+Removed Pin From Net: NetName=EREF_CLK Pin=U4-87
+Removed Pin From Net: NetName=EREF_CLK Pin=U4-88
+Added Pin To Net: NetName=3V3VCC Pin=U3-14
+Added Pin To Net: NetName=NetR11_2 Pin=U4-68
+Added Pin To Net: NetName=3V3VCC Pin=U6-14
+Added Pin To Net: NetName=ERXD0 Pin=R14-1
+Added Pin To Net: NetName=ERXD0 Pin=U4-41
+Added Net: Name=ERXD0
+Added Pin To Net: NetName=ERXD1 Pin=R15-1
+Added Pin To Net: NetName=ERXD1 Pin=U4-42
+Added Net: Name=ERXD1
+Added Pin To Net: NetName=ERXERR Pin=U1-41
+Added Pin To Net: NetName=ERXERR Pin=U4-35
+Added Net: Name=ERXERR
+Added Pin To Net: NetName=INT3/SCL1/RA14 Pin=R5-2
+Added Pin To Net: NetName=INT3/SCL1/RA14 Pin=U1-7
+Added Pin To Net: NetName=INT3/SCL1/RA14 Pin=U4-67
+Added Net: Name=INT3/SCL1/RA14
+Added Pin To Net: NetName=NetR8_1 Pin=R8-1
+Added Pin To Net: NetName=NetR8_1 Pin=U4-88
+Added Net: Name=NetR8_1
+Added Pin To Net: NetName=NetR9_1 Pin=R9-1
+Added Pin To Net: NetName=NetR9_1 Pin=U4-87
+Added Net: Name=NetR9_1
+Added Pin To Net: NetName=NetR10_1 Pin=R10-1
+Added Pin To Net: NetName=NetR10_1 Pin=U4-83
+Added Net: Name=NetR10_1
+Added Pin To Net: NetName=NetTP15_1 Pin=TP15-1
+Added Pin To Net: NetName=NetTP15_1 Pin=U2-4
+Added Pin To Net: NetName=NetTP15_1 Pin=U4-50
+Added Net: Name=NetTP15_1
+Added Pin To Net: NetName=NetU1_31 Pin=U1-31
+Added Pin To Net: NetName=NetU1_31 Pin=U4-71
+Added Net: Name=NetU1_31
+Added Pin To Net: NetName=NetU1_40 Pin=U1-40
+Added Pin To Net: NetName=NetU1_40 Pin=U4-12
+Added Net: Name=NetU1_40
+Added Pin To Net: NetName=USB_D- Pin=J6-2
+Added Pin To Net: NetName=USB_D- Pin=U4-56
+Added Net: Name=USB_D-
+Added Pin To Net: NetName=VBUS Pin=J6-1
+Added Pin To Net: NetName=VBUS Pin=U4-54
+Added Net: Name=VBUS

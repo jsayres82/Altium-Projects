@@ -1,0 +1,28 @@
+Added Pin To Net: NetName=5VDC Pin=C42-1
+Added Pin To Net: NetName=GND Pin=C42-2
+Added Pin To Net: NetName=GND Pin=C43-1
+Added Pin To Net: NetName=3V3VCC Pin=C43-2
+Added Pin To Net: NetName=GND Pin=C44-1
+Added Pin To Net: NetName=GND Pin=C45-1
+Added Pin To Net: NetName=GND Pin=R39-1
+Added Pin To Net: NetName=3V3VCC Pin=U8-2
+Added Pin To Net: NetName=Y1_HOME Pin=U8-9
+Added Pin To Net: NetName=GND Pin=U8-11
+Added Pin To Net: NetName=Y1_ENA Pin=U8-12
+Added Pin To Net: NetName=Y2_HOME Pin=U8-13
+Added Pin To Net: NetName=X_HOME Pin=U8-14
+Added Pin To Net: NetName=Z_HOME Pin=U8-15
+Added Pin To Net: NetName=Y_LIMIT Pin=U8-18
+Added Pin To Net: NetName=5VDC Pin=U8-19
+Added Pin To Net: NetName=Z_MAX Pin=U8-20
+Added Member To Class: ClassName=MCU Member=Component C42 0.1uF
+Added Member To Class: ClassName=MCU Member=Component C43 0.1uF
+Added Member To Class: ClassName=MCU Member=Component C44 11pF
+Added Member To Class: ClassName=MCU Member=Component C45 11pF
+Added Member To Class: ClassName=MCU Member=Component J17 shrouded box header
+Added Member To Class: ClassName=MCU Member=Component J18 shrouded box header
+Added Member To Class: ClassName=MCU Member=Component J19 Stackable ScrewTerm
+Added Member To Class: ClassName=MCU Member=Component J20 Stackable ScrewTerm
+Added Member To Class: ClassName=MCU Member=Component R39 1.0K
+Added Member To Class: ClassName=MCU Member=Component U8 TXB0108PWR
+Added Member To Class: ClassName=MCU Member=Component Y3 32kHz

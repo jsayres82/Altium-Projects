@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=I2C_SCL Pin=TP6-1
+Removed Pin From Net: NetName=I2C_SDA Pin=TP7-1
+Removed Member From Class: ClassName=MCU Member=TP6
+Removed Member From Class: ClassName=MCU Member=TP7
+Added Member To Class: ClassName=Block Diagram Member=Component J3 shrouded box header
+Added Member To Class: ClassName=MCU Member=Component U4 PIC32MX795F512L-80V/PF

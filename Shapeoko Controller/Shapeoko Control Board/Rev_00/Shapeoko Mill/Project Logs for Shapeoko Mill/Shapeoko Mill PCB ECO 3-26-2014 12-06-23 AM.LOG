@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=5V3V_ENA Pin=U4-3
+Removed Pin From Net: NetName=Y1_HOME Pin=U4-100
+Added Pin To Net: NetName=Y1_HOME Pin=U4-3
+Added Pin To Net: NetName=5V3V_ENA Pin=U4-100

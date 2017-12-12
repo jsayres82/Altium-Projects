@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=GND Pin=J7-15
+Removed Pin From Net: NetName=GND Pin=J7-16
+Change Component Footprint: Designator=J7 Old Footprint= New Footprint=ETHERNET_CONN
+Added Room: Name=Block Diagram
+Added Room: Name=FTDI-USB
+Added Room: Name=Limit Sensor Interface
+Added Room: Name=MCU
+Added Room: Name=Power

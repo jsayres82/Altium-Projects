@@ -1,0 +1,7 @@
+Change Component DesignItemId : Designator=J1 Old DesignItemId=0481900001 New DesignItemId=MUSB-05-F-B-SM-A
+Change Component Comment : Designator=J1 Old Comment=0481900001 New Comment=MUSB-05-F-B-SM-A
+Change Component Description : Designator=J1 Old Description=USB On-The-Go (OTG) Mini-B Receptacle, Right Angle, SMT, 0.80mm (.031") Pitch, Solder Tabs with Back Cover, Recessed Type New Description=CONN RECEPT USB MINI B SMD R/A
+Change Component Library : Designator=J1 Old Library=Molex Serial Bus Mini USB.IntLib New Library=Schlib1.SchLib
+Added Pin To Net: NetName=GND Pin=U2-9
+Added Pin To Net: NetName=GND Pin=U2-17
+Added Pin To Net: NetName=GND Pin=U2-29

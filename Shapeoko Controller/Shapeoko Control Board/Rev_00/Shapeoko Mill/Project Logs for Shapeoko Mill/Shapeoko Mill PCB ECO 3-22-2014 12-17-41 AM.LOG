@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=X_HOME Pin=U3-32
+Added Pin To Net: NetName=X_HOME Pin=U8-7
+Added Net: Name=X_HOME
+Added Pin To Net: NetName=Z_HOME Pin=U3-61
+Added Pin To Net: NetName=Z_HOME Pin=U8-6
+Added Net: Name=Z_HOME

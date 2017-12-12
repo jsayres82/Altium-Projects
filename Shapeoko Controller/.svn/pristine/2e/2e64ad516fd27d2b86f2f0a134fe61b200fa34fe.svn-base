@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=X_LIM Pin=U5-1
+Removed Pin From Net: NetName=Y_LIM Pin=U5-3
+Removed Pin From Net: NetName=Z_HOME Pin=U5-6
+Removed Pin From Net: NetName=X_HOME Pin=U5-7
+Removed Pin From Net: NetName=X_HM Pin=U5-14
+Removed Pin From Net: NetName=Z_HM Pin=U5-15
+Removed Pin From Net: NetName=Y_LIMIT Pin=U5-18
+Removed Pin From Net: NetName=X_LIMIT Pin=U5-20
+Removed Member From Class: ClassName=MCU Member=R34
+Removed Member From Class: ClassName=MCU Member=R35
+Removed Member From Class: ClassName=MCU Member=TP4
+Change Component Footprint: Designator=J7 Old Footprint=ETHERNET New Footprint=ETHERNET_CONN
+Added Pin To Net: NetName=Z_HOME Pin=U5-1
+Added Pin To Net: NetName=X_HOME Pin=U5-3
+Added Pin To Net: NetName=X_LIM Pin=U5-6
+Added Pin To Net: NetName=Y_LIM Pin=U5-7
+Added Pin To Net: NetName=Y_LIMIT Pin=U5-14
+Added Pin To Net: NetName=X_LIMIT Pin=U5-15
+Added Pin To Net: NetName=X_HM Pin=U5-18
+Added Pin To Net: NetName=Z_HM Pin=U5-20
+Added Member To Class: ClassName=MCU Member=Component R28 2.2K
+Added Member To Class: ClassName=Block Diagram Member=Component TP3 TESTPOINT_LEAD
+Added Member To Class: ClassName=MCU Member=Component TP6 TESTPOINT_LEAD

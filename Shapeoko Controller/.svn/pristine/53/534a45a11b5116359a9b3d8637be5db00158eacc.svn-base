@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=NetJ?_1 Pin=S?-2
+Change Component DesignItemId : Designator=J? Old DesignItemId=CONN_HEADER_1x3P_0.100in New DesignItemId=CONN_PWR_JACK_2.1x5.5mm
+Change Component DesignItemId : Designator=J1 Old DesignItemId=CONN_HEADER_2x5P_0.100in_Male New DesignItemId=MHDR1X6
+Change Component DesignItemId : Designator=J17 Old DesignItemId=MHDR1X4 New DesignItemId=CONN_HEADER_2x5P_0.100in_Male
+Change Component Footprint: Designator=J? Old Footprint=1x3POS_HEADER New Footprint=CONN_PWR_JACK_2.1x5.5mm
+Change Component Footprint: Designator=J17 Old Footprint=HDR1X4 New Footprint=10P_PCB_HEADER_BRD_MNT
+Change Component Comment : Designator=J? Old Comment=1X3 New Comment=CONN_PWR_JACK_2.1x5.5mm
+Change Component Comment : Designator=J17 Old Comment=MHDR1X4 New Comment=shrouded box header
+Change Component Comment : Designator=J1 Old Comment=shrouded box header New Comment=ICP

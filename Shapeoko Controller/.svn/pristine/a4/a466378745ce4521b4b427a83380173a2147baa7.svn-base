@@ -1,0 +1,5 @@
+Change Net Name : Old Net Name=X_HOME New Net Name=X_HM
+Change Net Name : Old Net Name=Z_HOME New Net Name=Z_HM
+Added Pin To Net: NetName=Y1_HM Pin=J3-9
+Added Pin To Net: NetName=Y1_HM Pin=U8-12
+Added Net: Name=Y1_HM

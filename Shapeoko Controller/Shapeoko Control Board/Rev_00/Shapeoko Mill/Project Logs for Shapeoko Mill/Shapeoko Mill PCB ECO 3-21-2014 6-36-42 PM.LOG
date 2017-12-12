@@ -1,0 +1,24 @@
+Added Pin To Net: NetName=\MCLR Pin=J6-1
+Added Pin To Net: NetName=3V3VCC Pin=J6-2
+Added Pin To Net: NetName=GND Pin=J6-3
+Added Pin To Net: NetName=PGD Pin=J6-4
+Added Pin To Net: NetName=PGC Pin=J6-5
+Added Pin To Net: NetName=3V3VCC Pin=R6-2
+Added Pin To Net: NetName=3V3VCC Pin=R8-2
+Added Pin To Net: NetName=GND Pin=R12-1
+Added Pin To Net: NetName=3V3VCC Pin=R13-1
+Added Pin To Net: NetName=3V3VCC Pin=R17-2
+Added Pin To Net: NetName=3V3VCC Pin=R18-2
+Added Member To Class: ClassName=FTDI-USB Member=Component R6 249
+Added Member To Class: ClassName=FTDI-USB Member=Component R7 33
+Added Member To Class: ClassName=FTDI-USB Member=Component R8 249
+Added Member To Class: ClassName=FTDI-USB Member=Component R9 33
+Added Member To Class: ClassName=FTDI-USB Member=Component R10 33
+Added Member To Class: ClassName=FTDI-USB Member=Component R12 4.87K
+Added Member To Class: ClassName=FTDI-USB Member=Component R13 2.2K
+Added Member To Class: ClassName=FTDI-USB Member=Component R14 33
+Added Member To Class: ClassName=FTDI-USB Member=Component R15 33
+Added Member To Class: ClassName=FTDI-USB Member=Component R16 33
+Added Member To Class: ClassName=FTDI-USB Member=Component R17 2.2K
+Added Member To Class: ClassName=FTDI-USB Member=Component R18 2.2K
+Added Member To Structure Class: ClassName=Block Diagram_StructureClass Member=Block Diagram

@@ -1,0 +1,7 @@
+Removed Member From Class: ClassName=MCU Member=R34
+Removed Member From Class: ClassName=MCU Member=R35
+Removed Member From Class: ClassName=MCU Member=TP4
+Change Component Footprint: Designator=J7 Old Footprint=ETHERNET New Footprint=ETHERNET_CONN
+Added Member To Class: ClassName=MCU Member=Component R28 2.2K
+Added Member To Class: ClassName=Block Diagram Member=Component TP3 TESTPOINT_LEAD
+Added Member To Class: ClassName=MCU Member=Component TP6 TESTPOINT_LEAD

@@ -1,0 +1,17 @@
+Added Component: Designator=J21(2P_PCB_ScrewTerm_90S_3.81MM)
+Added Component: Designator=J22(2P_PCB_ScrewTerm_90S_3.81MM)
+Added Component: Designator=J23(2P_PCB_ScrewTerm_90S_3.81MM)
+Added Component: Designator=J24(2P_PCB_ScrewTerm_90S_3.81MM)
+Added Pin To Net: NetName=GND Pin=J21-1
+Added Pin To Net: NetName=5VDC Pin=J21-2
+Added Pin To Net: NetName=GND Pin=J22-1
+Added Pin To Net: NetName=3V3VCC Pin=J22-2
+Added Pin To Net: NetName=GND Pin=J23-1
+Added Pin To Net: NetName=2V5VCC Pin=J23-2
+Added Pin To Net: NetName=GND Pin=J24-1
+Added Pin To Net: NetName=1V8VCC Pin=J24-2
+Added Pin To Net: NetName=5V3V_ENA Pin=U3-10
+Added Member To Class: ClassName=MCU Member=Component J21 Stackable ScrewTerm
+Added Member To Class: ClassName=MCU Member=Component J22 Stackable ScrewTerm
+Added Member To Class: ClassName=MCU Member=Component J23 Stackable ScrewTerm
+Added Member To Class: ClassName=MCU Member=Component J24 Stackable ScrewTerm

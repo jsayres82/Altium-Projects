@@ -1,0 +1,27 @@
+Change Component Description : Designator=J1 Old Description=Header THD 10 POS Double-row 2.54mm pitch New Description=Header, 6-Pin
+Change Component Library : Designator=J1 Old Library=PBL - Connectors.SCHLIB New Library=Miscellaneous Connectors.IntLib
+Added Component: Designator=J1(10P_PCB_HEADER_BRD_MNT)
+Added Component: Designator=J17(HDR1X4)
+Added Component: Designator=J?(1x3POS_HEADER)
+Added Pin To Net: NetName=\MCLR Pin=J1-1
+Added Pin To Net: NetName=X_ENA Pin=J1-1
+Added Pin To Net: NetName=3V3VCC Pin=J1-2
+Added Pin To Net: NetName=5VOUT Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J1-3
+Added Pin To Net: NetName=X_SLP Pin=J1-3
+Added Pin To Net: NetName=PGD Pin=J1-4
+Added Pin To Net: NetName=X_RST Pin=J1-4
+Added Pin To Net: NetName=PGC Pin=J1-5
+Added Pin To Net: NetName=X_DIR Pin=J1-5
+Added Pin To Net: NetName=X_STEP Pin=J1-6
+Added Pin To Net: NetName=X_MS2 Pin=J1-7
+Added Pin To Net: NetName=X_MS1 Pin=J1-8
+Added Pin To Net: NetName=X_HM Pin=J1-9
+Added Pin To Net: NetName=GND Pin=J1-10
+Added Pin To Net: NetName=5VDC Pin=J17-1
+Added Pin To Net: NetName=GPIO1 Pin=J17-1
+Added Pin To Net: NetName=GPIO2 Pin=J17-2
+Added Pin To Net: NetName=NetJ17_2 Pin=J17-2
+Added Pin To Net: NetName=GPIO3 Pin=J17-3
+Added Pin To Net: NetName=GND Pin=J17-4
+Added Pin To Net: NetName=GPIO4 Pin=J17-4

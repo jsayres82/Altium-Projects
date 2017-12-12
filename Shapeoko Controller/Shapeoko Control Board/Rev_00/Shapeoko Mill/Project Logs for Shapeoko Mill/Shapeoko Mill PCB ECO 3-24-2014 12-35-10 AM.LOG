@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=I2C_SDA Pin=R?-1
+Change Component Designator: OldDesignator=MH? NewDesignator=MH1
+Change Component Designator: OldDesignator=MH? NewDesignator=MH2
+Change Component Designator: OldDesignator=MH? NewDesignator=MH3
+Change Component Designator: OldDesignator=MH? NewDesignator=MH4
+Change Component Designator: OldDesignator=R? NewDesignator=R40
+Change Component Designator: OldDesignator=R? NewDesignator=R41
+Added Pin To Net: NetName=I2C_SDA Pin=R40-1
+Added Pin To Net: NetName=3V3VCC Pin=R40-2
+Added Pin To Net: NetName=I2C_SCL Pin=R41-1
+Added Member To Class: ClassName=Block Diagram Member=Component MH1 MH_Plated_125mil
+Added Member To Class: ClassName=Block Diagram Member=Component MH2 MH_Plated_125mil
+Added Member To Class: ClassName=Block Diagram Member=Component MH3 MH_Plated_125mil
+Added Member To Class: ClassName=MCU Member=Component R41 2.2K
+Change Rule Scope 1 : Old Scope=InComponent('MH?') New Scope=InComponent('MH1')
+Change Rule Scope 1 : Old Scope=InComponent('MH?') New Scope=InComponent('MH2')
+Change Rule Scope 1 : Old Scope=InComponent('MH?') New Scope=InComponent('MH3')
+Change Rule Scope 1 : Old Scope=InComponent('MH?') New Scope=InComponent('MH4')

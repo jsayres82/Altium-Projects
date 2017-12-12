@@ -1,0 +1,46 @@
+Added Component: Designator=MH?(MH_PLATED_125 ID x 260mil OD)
+Added Component: Designator=MH?(MH_PLATED_125 ID x 260mil OD)
+Added Component: Designator=MH?(MH_PLATED_125 ID x 260mil OD)
+Added Component: Designator=MH?(MH_PLATED_125 ID x 260mil OD)
+Added Component: Designator=R?(RES_0603)
+Added Component: Designator=R?(RES_0603)
+Added Pin To Net: NetName=USB_D+ Pin=J6-1
+Added Pin To Net: NetName=USB_D+ Pin=J6-2
+Added Pin To Net: NetName=EREF_CLK Pin=R5-2
+Added Pin To Net: NetName=EREF_CLK Pin=R8-1
+Added Pin To Net: NetName=EREF_CLK Pin=R9-1
+Added Pin To Net: NetName=EREF_CLK Pin=R10-1
+Added Pin To Net: NetName=EREF_CLK Pin=R14-1
+Added Pin To Net: NetName=EREF_CLK Pin=R15-1
+Added Pin To Net: NetName=I2C_SCL Pin=R?-1
+Added Pin To Net: NetName=I2C_SDA Pin=R?-1
+Added Pin To Net: NetName=3V3VCC Pin=R?-2
+Added Pin To Net: NetName=3V3VCC Pin=R?-2
+Added Pin To Net: NetName=EREF_CLK Pin=U1-7
+Added Pin To Net: NetName=EREF_CLK Pin=U1-31
+Added Pin To Net: NetName=EREF_CLK Pin=U1-40
+Added Pin To Net: NetName=EREF_CLK Pin=U1-41
+Added Pin To Net: NetName=NetU2_1 Pin=U2-4
+Added Pin To Net: NetName=EREF_CLK Pin=U4-12
+Added Pin To Net: NetName=EREF_CLK Pin=U4-35
+Added Pin To Net: NetName=EREF_CLK Pin=U4-41
+Added Pin To Net: NetName=EREF_CLK Pin=U4-42
+Added Pin To Net: NetName=NetU2_1 Pin=U4-50
+Added Pin To Net: NetName=SPI_MISO Pin=U4-52
+Added Pin To Net: NetName=SPI_MOSI Pin=U4-53
+Added Pin To Net: NetName=USB_D+ Pin=U4-54
+Added Pin To Net: NetName=USB_D+ Pin=U4-56
+Added Pin To Net: NetName=I2C_SCL Pin=U4-58
+Added Pin To Net: NetName=I2C_SDA Pin=U4-59
+Added Pin To Net: NetName=XY_LIM Pin=U4-66
+Added Pin To Net: NetName=EREF_CLK Pin=U4-67
+Added Pin To Net: NetName=EREF_CLK Pin=U4-71
+Added Pin To Net: NetName=EREF_CLK Pin=U4-83
+Added Pin To Net: NetName=EREF_CLK Pin=U4-87
+Added Pin To Net: NetName=EREF_CLK Pin=U4-88
+Added Member To Class: ClassName=Block Diagram Member=Component MH? MH_Plated_125mil
+Added Member To Class: ClassName=MCU Member=Component R? 2.2K
+Added Rule: Name=Schematic Power Plane Connect Style
+Added Rule: Name=Schematic Power Plane Connect Style_1
+Added Rule: Name=Schematic Power Plane Connect Style_2
+Added Rule: Name=Schematic Power Plane Connect Style_3

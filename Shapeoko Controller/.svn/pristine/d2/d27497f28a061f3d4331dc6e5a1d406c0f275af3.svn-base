@@ -1,0 +1,26 @@
+Added Component: Designator=B?(DIP-6)
+Added Component: Designator=B?(DIP-6)
+Added Component: Designator=B?(DIP-6)
+Added Component: Designator=C?(CAPC1005)
+Added Component: Designator=C?(CAPC1005)
+Added Component: Designator=C?(CAPC1005)
+Added Component: Designator=C?(CAPC1005)
+Added Component: Designator=D?(1.6X0.8X0.8)
+Added Component: Designator=D?(1.6X0.8X0.8)
+Added Component: Designator=J?(481900001)
+Added Component: Designator=R?(3-0603)
+Added Component: Designator=R?(3-0603)
+Added Component: Designator=R?(3-0603)
+Added Component: Designator=R?(6-0805)
+Added Component: Designator=R?(3-0603)
+Added Component: Designator=R?(3-0603)
+Added Component: Designator=U?(MCHP-SOT-223-DB3_N)
+Added Component: Designator=U?(LQFP-32_N)
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=U?-2
+Added Net: Name=GND
+Added Pin To Net: NetName=NetB?_1 Pin=B?-1
+Added Net: Name=NetB?_1

@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=GPIO3 Pin=U4-9
+Removed Pin From Net: NetName=GPIO4 Pin=U4-20
+Added Pin To Net: NetName=GPIO4 Pin=U4-9
+Added Pin To Net: NetName=GPIO3 Pin=U4-20

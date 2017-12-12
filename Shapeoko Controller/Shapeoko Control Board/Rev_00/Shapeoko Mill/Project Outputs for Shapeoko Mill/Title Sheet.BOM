@@ -1,0 +1,56 @@
+Bill of Material for 
+On 4/14/2014 at 11:15:30 PM
+
+ Comment             Pattern     Quantity  Components
+------------------------------------------------------------------------------
+ 0.047uF             cap_0603         2    C12, C13                     CAP CER 0.047UF 25V 10% X7R 0603 
+ 0.1uF               cap_0603        28    C1, C2, C3, C5, C6, C7, C9   CAP CER 0.1UF 16V 10% X7R 0603 
+                                           C10, C11, C14, C18, C19, C24
+                                           C25, C26, C27, C28, C29, C30
+                                           C31, C38, C39, C40, C41, C42
+                                           C43, C44, C45
+ 0                   RES_0603         1    R23                          RES 0.0 OHM 1/10W JUMP 0603 SMD 
+ 1.0K                RES_0603         1    R32                          RES 1K OHM 1/10W 5% 0603 SMD 
+ 1.0uF               cap_0805         6    C32, C33, C34, C35, C36, C37 CAP CER 1UF 16V 10% X7R 0805 
+ 1.5K                RES_0603         2    R5, R11                      RES 1.5K OHM 1/10W 5% 0603 SMD 
+ 10                  RES_0603         1    R31                          RES 10 OHM 1/10W 5% 0603 SMD 
+ 100                 RES_0603         5    R22, R24, R33, R34, R35      RES 100 OHM 1/10W 5% 0603 SMD 
+ 100K                RES_0603         6    R36, R37, R38, R39, R40, R41 RES 100K OHM 1/10W 5% 0603 SMD 
+ 10K                 RES_0603         4    R19, R20, R21, R27           RES 10K OHM 1/10W 5% 0603 SMD 
+ 10uF                cap_0805         4    C4, C15, C16, C17            CAP CER 10UF 6.3V 10% X5R 0805 
+ 11pF                cap_0603         2    C20, C23                     CAP CER 11PF 25V 5% NP0 0201 
+ 1X3                 1x3POS_HEADER    1    J17                          Pin Header, THT, Single-row, 2.54mm pitch 
+ 2.2K                RES_0603         5    R13, R17, R18, R28, R29      RES 2.2K OHM 1/10W 5% 0603 SMD 
+ 20pF                cap_0603         2    C21, C22                     CAP CER 20PF 50V 5% NP0 0603 
+ 249                 RES_0603         2    R6, R7                       RES 249 OHM 1/10W 1% 0603 SMD 
+ 27                  RES_0603         2    R25, R26                     RES 27 OHM 1/10W 5% 0603 SMD 
+ 32kHz               4-SOJ_5.5MM_PITCH    1    Y2                           CRYSTAL 32KHZ 12.5PF SMD 
+ 33                  RES_0603         6    R8, R9, R10, R14, R15, R16   RES 33 OHM 1/10W 5% 0603 SMD 
+ 4.7uF               cap_0805         1    C8                           CAP CER 4.7UF 10V 10% X5R 0805 
+ 4.87K               RES_0603         1    R12                          RES 4.87K OHM 1/10W 1% 0603 SMD 
+ 470                 RES_0603         1    R30                          RES 470 OHM 1/10W 5% 0603 SMD 
+ 49.9                RES_0603         4    R1, R2, R3, R4               RES 49.9 OHM 1/10W 1% 0603 SMD 
+ 50MHz               K50-3C           1    Y1                           OSC XO 50.000MHZ CMOS SMD 
+ 8MHz                ABM3B_XTAL       1    Y3                           CRYSTAL 8MHZ 18PF SMD 
+ ADP7104ACPZ-1.8-R7  ADI-CP-8-5_V     1    U9                           500 mA, Low Noise, CMOS LDO, 3.3 to 20 V Vin, 1.8 V Vout, Industrial, 8-pin SON (CP-8-5), Reel 
+ ADP7104ACPZ-2.5-R7  ADI-CP-8-5_V     1    U8                           500 mA, Low Noise, CMOS LDO, 3.3 to 20 V Vin, 2.5 V Vout, Industrial, 8-pin SON (CP-8-5), Reel 
+ ADP7104ACPZ-3.3-R7  ADI-CP-8-5_V     1    U7                           500 mA, Low Noise, CMOS LDO, 3.3 to 20 V Vin, 3.3 V Vout, Industrial, 8-pin SON (CP-8-5), Reel 
+ CD4069UBCM          M14A_N           1    U6                           Hex Inverter, 14-Pin SOIC 
+ CD4071BCM           M14A_N           1    U3                           Quad 2-Input OR Buffered B series Gate, 14-Pin SOIC 
+ CONN_PWR_JACK_2.1x5.5mm CONN_PWR_JACK_2.1x5.5mm    1    J25                          Power Connector, THT, 2.1mm ID, 5.5mm OD 
+ DP83848CVV/NOPB     VBH48A_N         1    U1                           PHYTER® Commercial Temperature Single Port 10/100 Mb/s Ethernet Physical Layer Transceiver, 48-pin LQFP, Pb-Free, 250 Tray 
+ FT230XS-R           SSOP-16_M        1    U2                           IC USB SERIAL BASIC UART 16SSOP 
+ HSMD-C190           1.6X0.8X0.8      5    D1, D2, D3, D4, D5           Surface Mount Chip LED, Orange 
+ MHDR1X4             HDR1X4           7    J9, J10, J11, J12, J13, J14  Header, 4-Pin        
+                                           J15
+ Mini-B              MUSB-05-X-B-SM-A    2    J6, J8                       CONN RECEPT USB MINI B SMD R/A 
+ ON-ON               SWITCH_SPDT_SLIDER    1    S1                           Switch THD vertical toggle SPDT 
+ PIC32MX795F512L-80V/PF TQFP-PF100_N     1    U4                           High Performance 80 MHz MIPS-Based 32-Bit Flash Microcontroller with USB, CAN and Ethernet, 512KB Program Memory, 100-pin TQFP, V-Temperature 
+ shrouded box header 10P_PCB_HEADER_BRD_MNT    7    J1, J2, J3, J4, J5, J18, J20 Header THD 10 POS Double-row 2.54mm pitch 
+ SI-60062-F          ETHERNET_CONN    1    J7                           CONN MAGJACK 1PORT 100 BASE-T 
+ Stackable ScrewTerm 2P_PCB_ScrewTerm_90S_3.81MM    5    J22, J23, J24, J26, J27      Terminal Block Screw Type THT 2-Position 3.81mm pitch 
+ Stackable ScrewTerm 6P_PCB_ScrewTerm_90S_3.81MM    1    J21                          Terminal Block, THT, 6-Position screwterm, 3.81mm pitch 
+ TXB0108PWR          TSSOP-20         1    U5                           IC 8-BIT TRNSTR 15KV ESD 20TSSOP 
+ Value               95001-2661       1    J19                          CONN MOD JACK R/A 6P6C 
+ Value               TL1015_TACT_SWITCH    1    SW1                          SWITCH TACTILE SPST-NO 0.05A 12V 
+ ValueValueAux       TP               1    TP5                          =Description         

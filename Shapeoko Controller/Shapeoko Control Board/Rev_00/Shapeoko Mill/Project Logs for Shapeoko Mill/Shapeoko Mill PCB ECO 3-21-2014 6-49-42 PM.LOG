@@ -1,0 +1,29 @@
+Removed Pin From Net: NetName=X_MAX Pin=U2-1
+Removed Pin From Net: NetName=X_LIMIT Pin=U2-2
+Removed Pin From Net: NetName=Y_LIMIT Pin=U2-3
+Removed Pin From Net: NetName=Y_MIN Pin=U2-14
+Removed Pin From Net: NetName=Y_MAX Pin=U2-15
+Removed Pin From Net: NetName=X_MIN Pin=U2-16
+Removed Pin From Net: NetName=LIMIT_INT Pin=U8-6
+Removed Pin From Net: NetName=Y_LIMIT Pin=U8-10
+Removed Pin From Net: NetName=X_LIMIT Pin=U8-11
+Removed Member From Class: ClassName=Limit Sensor Interface Member=U8
+Change Component DesignItemId : Designator=U2 Old DesignItemId=74AC11032NSR New DesignItemId=CD4071BCM
+Change Component Comment : Designator=U2 Old Comment=OR New Comment=CD4071BCM
+Change Component Description : Designator=U2 Old Description=IC GATE OR QUAD 2INP 16SO New Description=Quad 2-Input OR Buffered B series Gate, 14-Pin SOIC
+Change Component Library : Designator=U2 Old Library=Schlib1.SchLib New Library=FSC Logic Gate.IntLib
+Added Component: Designator=J15(HDR1X4)
+Added Component: Designator=J16(HDR1X4)
+Added Pin To Net: NetName=X_MIN Pin=U2-1
+Added Pin To Net: NetName=X_MAX Pin=U2-2
+Added Pin To Net: NetName=X_LIMIT Pin=U2-3
+Added Pin To Net: NetName=LIMIT_INT Pin=U2-4
+Added Pin To Net: NetName=Y_LIMIT Pin=U2-5
+Added Pin To Net: NetName=X_LIMIT Pin=U2-6
+Added Pin To Net: NetName=GND Pin=U2-7
+Added Pin To Net: NetName=Y_MIN Pin=U2-8
+Added Pin To Net: NetName=Y_MAX Pin=U2-9
+Added Pin To Net: NetName=Y_LIMIT Pin=U2-10
+Added Pin To Net: NetName=LIMIT_INT Pin=U2-11
+Added Pin To Net: NetName=X_LIMIT Pin=U2-13
+Added Pin To Net: NetName=VDD Pin=U2-14

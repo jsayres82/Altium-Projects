@@ -1,0 +1,64 @@
+Added Component: Designator=TP2(THP_D46_T80_B80)
+Added Component: Designator=TP3(THP_D46_T80_B80)
+Added Component: Designator=TP4(THP_D46_T80_B80)
+Added Component: Designator=TP5(THP_D46_T80_B80)
+Added Component: Designator=TP6(THP_D46_T80_B80)
+Added Component: Designator=TP7(THP_D46_T80_B80)
+Added Component: Designator=TP8(THP_D46_T80_B80)
+Added Component: Designator=TP9(THP_D46_T80_B80)
+Added Component: Designator=TP10(THP_D46_T80_B80)
+Added Component: Designator=TP11(THP_D46_T80_B80)
+Added Component: Designator=TP12(THP_D46_T80_B80)
+Added Component: Designator=TP13(THP_D46_T80_B80)
+Added Component: Designator=TP14(THP_D46_T80_B80)
+Added Component: Designator=TP15(THP_D46_T80_B80)
+Added Component: Designator=TP16(THP_D46_T80_B80)
+Added Component: Designator=TP17(THP_D46_T80_B80)
+Added Component: Designator=TP18(THP_D46_T80_B80)
+Added Component: Designator=TP19(THP_D46_T80_B80)
+Added Component: Designator=TP20(THP_D46_T80_B80)
+Added Component: Designator=TP21(THP_D46_T80_B80)
+Added Pin To Net: NetName=5VDC Pin=R36-1
+Added Pin To Net: NetName=X_STEP Pin=TP2-1
+Added Pin To Net: NetName=Y2_STEP Pin=TP3-1
+Added Pin To Net: NetName=Y1_STEP Pin=TP4-1
+Added Pin To Net: NetName=Z_STEP Pin=TP5-1
+Added Pin To Net: NetName=SP_SPEED Pin=TP6-1
+Added Pin To Net: NetName=I2C_SCL Pin=TP7-1
+Added Pin To Net: NetName=I2C_SDA Pin=TP8-1
+Added Pin To Net: NetName=SPI_CLK Pin=TP9-1
+Added Pin To Net: NetName=SPI_MOSI Pin=TP10-1
+Added Pin To Net: NetName=SPI_MISO Pin=TP11-1
+Added Pin To Net: NetName=OSC1 Pin=TP12-1
+Added Pin To Net: NetName=SOSC1 Pin=TP13-1
+Added Pin To Net: NetName=NetU2_1 Pin=TP14-1
+Added Pin To Net: NetName=NetU2_1 Pin=TP15-1
+Added Pin To Net: NetName=CAN_RX Pin=TP16-1
+Added Pin To Net: NetName=CAN_TX Pin=TP17-1
+Added Pin To Net: NetName=3V3VCC Pin=TP18-1
+Added Pin To Net: NetName=NetJ25_1 Pin=TP19-1
+Added Pin To Net: NetName=2V5VCC Pin=TP20-1
+Added Pin To Net: NetName=1V8VCC Pin=TP21-1
+Change Net Name : Old Net Name=NetU2_1 New Net Name=NetTP14_1
+Added Member To Class: ClassName=Block Diagram Member=Component MH4 MH_Plated_125mil
+Added Member To Class: ClassName=MCU Member=Component R40 2.2K
+Added Member To Class: ClassName=Block Diagram Member=Component TP2 TESTPOINT_LEAD
+Added Member To Class: ClassName=Block Diagram Member=Component TP3 TESTPOINT_LEAD
+Added Member To Class: ClassName=Block Diagram Member=Component TP4 TESTPOINT_LEAD
+Added Member To Class: ClassName=Block Diagram Member=Component TP5 TESTPOINT_LEAD
+Added Member To Class: ClassName=Block Diagram Member=Component TP6 TESTPOINT_LEAD
+Added Member To Class: ClassName=MCU Member=Component TP7 TESTPOINT_LEAD
+Added Member To Class: ClassName=MCU Member=Component TP8 TESTPOINT_LEAD
+Added Member To Class: ClassName=MCU Member=Component TP9 TESTPOINT_LEAD
+Added Member To Class: ClassName=MCU Member=Component TP10 TESTPOINT_LEAD
+Added Member To Class: ClassName=MCU Member=Component TP11 TESTPOINT_LEAD
+Added Member To Class: ClassName=MCU Member=Component TP12 TESTPOINT_LEAD
+Added Member To Class: ClassName=MCU Member=Component TP13 TESTPOINT_LEAD
+Added Member To Class: ClassName=MCU Member=Component TP14 TESTPOINT_LEAD
+Added Member To Class: ClassName=MCU Member=Component TP15 TESTPOINT_LEAD
+Added Member To Class: ClassName=MCU Member=Component TP16 TESTPOINT_LEAD
+Added Member To Class: ClassName=MCU Member=Component TP17 TESTPOINT_LEAD
+Added Member To Class: ClassName=Power Member=Component TP18 TESTPOINT_LEAD
+Added Member To Class: ClassName=Power Member=Component TP19 TESTPOINT_LEAD
+Added Member To Class: ClassName=Power Member=Component TP20 TESTPOINT_LEAD
+Added Member To Class: ClassName=Power Member=Component TP21 TESTPOINT_LEAD

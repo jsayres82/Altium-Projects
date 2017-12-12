@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=X_DIR Pin=U4-1
+Removed Pin From Net: NetName=X_MS2 Pin=U4-96
+Added Pin To Net: NetName=X_MS2 Pin=U4-1
+Added Pin To Net: NetName=X_DIR Pin=U4-96
